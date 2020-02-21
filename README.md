@@ -50,31 +50,11 @@ You should be able to see the site at: `http://localhost:4000/`
 
 ## Current team
 
-- Tiffany Andrews
-- Matt Dobson
-- Leah Gitter
-- Julia Lindpaintner
-- Peter Rowland
+Bixal UX Team
 
 ## Past contributors
 
-- Amirah Aziz
-- Melissa Braxton
-- Jeremy Canfield
-- Erica Deahl
-- Carolyn Dew
-- Andre Francisco
-- James Hupp
-- Nicky Krause
-- Colin MacArthur
-- Andrew Maier
-- Brad Nunnally
-- Eric Richards
-- Eric Ronne
-- Jennifer Thibault
-- Russ Unger
-- Scott Weber
-- Victor Zapanta
+18F Team
 
 ## Public domain
 
