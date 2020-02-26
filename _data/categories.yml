@@ -1,50 +1,83 @@
 - category_name: Awareness
   category_description: If you don't know what you don't know, start here.
-  category_info: tbd
+  category_info: more detailed category info...
   methods:
     - Comparative analysis
     - Content audit
     - Design hypothesis
     - Hopes and fears
     - Stakeholder and user interviews
+  questions:
+    - What problem are we trying to solve?
+    - What assumptions do we have?
+    - What are the organizational goals?
+    - What do we have to work with?
+    - What questions do we have?
+    - Where do we start user research?
+    - What are people saying?
+    - Who are the audiences?
+    - How will we know if we're successful?
 
 - category_name: Observation
   category_description: Once you know what you don't know, start interacting with customers and users.
-  category_info: tbd
+  category_info: more detailed category info...
   methods:
     - Card sorting
     - Cognitive walkthrough
     - Contextual inquiry
     - Heuristic evaluation
     - Task flow analysis
+  questions:
+    - What are people doing today?
+    - What data do we need to collect?
+    - Who do we talk to next?
+    - How well does the current solution work?
+    - What mental models do people have?
+    - What new questions do we have?
 
 - category_name: Interpretation
   category_description: When you have answers to your questions, make sense of what you've learned.
-  category_info: tbd
+  category_info: more detailed category info...
   methods:
     - Affinity diagramming
     - Journey mapping
     - Personas
     - Site mapping
     - User scenarios
+  questions:
+    - How do we make sense of what we've seen and collected?
+    - How might we interpret our findings?
+    - How do we communicate findings that actionable?
+    - What assertions or provocations can we make?
+    - What are the pain points and opportunities?
 
 - category_name: Exploration
   category_description: Make some things based on your interpretation.
-  category_info: tbd
+  category_info: more detailed category info...
   methods:
     - Design studio
     - Design pattern library
     - Prototyping
     - Storyboarding
     - Wireframing
+  questions:
+    - How might we consider the whole experience?
+    - How might we address the pain points and opportunities?
+    - What ideas or hypotheses do we want to test?
+    - How might we remain focused on the audiences and their needs?
 
 - category_name: Validation
   category_description: See if you're on the right track.
-  category_info: tbd
+  category_info: more detailed category info...
   methods:
     - Dot voting
     - Usability testing
     - Visual preference testing
+  questions:
+    - How do we know we're on the right track?
+    - How do decide and move forward?
+    - What did we learn from the latest iteration?
+    - Did we confirm or refute our assumption?
 
 - category_name: Fundamentals
   category_description: Foundational methods for practicing design research.

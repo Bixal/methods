@@ -16,6 +16,12 @@ layout: page
         <div class="category--header usa-content">
           <p class="category--subtitle">{{ category.category_description }}</p>
           <p>{{ category.category_info }}</p>
+          <p>Questions you may have at this point:</p>
+          <ul>
+            {% for question in category.questions %}
+            <li>{{ question }}</li>
+            {% endfor %}
+          </ul>
           <a href="{{ site.baseurl }}/{{ category.category_name | downcase }}" class="a-see-all">See all {{ category.category_name | downcase }} methods</a>
         </div>
       </div>
