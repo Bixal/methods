@@ -1,47 +1,48 @@
-- category_name: Discover
-  category_description: Build a greater understanding of your problem and the people it impacts.
-  category_info: Use the Discover Methods to build context for the problem you’re investigating. Get to know your potential users better and understand your stakeholders’ main concerns. The work you do during this phase will inform everything that follows, so take your time.
+- category_name: Awareness
+  category_description: If you don't know what you don't know, start here.
+  category_info: tbd
   methods:
-    - Cognitive walkthrough
-    - Contextual inquiry
-    - Design studio
-    - Dot voting
-    - Heuristic evaluation
+    - Comparative analysis
+    - Content audit
+    - Design hypothesis
     - Hopes and fears
-    - KJ method
     - Stakeholder and user interviews
 
-- category_name: Decide
-  category_description: Elaborate on research from your Discovery phase.
-  category_info: The Decide Methods help you derive insights from the information gathered during the Discovery phase. You’ll validate initial assumptions, develop a deeper understanding of workflows and processes, and develop design hypotheses.
-  methods:
-    - Affinity diagramming
-    - Comparative analysis
-    - Design hypothesis
-    - Design principles
-    - Journey mapping
-    - Mental modeling
-    - Personas
-    - Site mapping
-    - Storyboarding
-    - Style tiles
-    - Task flow analysis
-    - User scenarios
-
-- category_name: Make
-  category_description: Create a testable solution.
-  category_info: Once you’ve learned more about your users’ expectations, use the Make Methods to create testable designs. Sketching, wireframing, and prototyping will help you ensure your product reflects your users’ needs.
-  methods:
-    - Design pattern library
-    - Prototyping
-    - Wireframing
-
-- category_name: Validate
-  category_description: Test a design hypothesis.
-  category_info: Testing (and re-testing) your designs with users will help you build the best possible product. Our Validate Methods cover varied testing scenarios and potential user groups.
+- category_name: Observation
+  category_description: Once you know what you don't know, start interacting with customers and users.
+  category_info: tbd
   methods:
     - Card sorting
-    - Multivariate testing
+    - Cognitive walkthrough
+    - Contextual inquiry
+    - Heuristic evaluation
+    - Task flow analysis
+
+- category_name: Interpretation
+  category_description: When you have answers to your questions, make sense of what you've learned.
+  category_info: tbd
+  methods:
+    - Affinity diagramming
+    - Journey mapping
+    - Personas
+    - Site mapping
+    - User scenarios
+
+- category_name: Exploration
+  category_description: Make some things based on your interpretation.
+  category_info: tbd
+  methods:
+    - Design studio
+    - Design pattern library
+    - Prototyping
+    - Storyboarding
+    - Wireframing
+
+- category_name: Validation
+  category_description: See if you're on the right track.
+  category_info: tbd
+  methods:
+    - Dot voting
     - Usability testing
     - Visual preference testing
 
