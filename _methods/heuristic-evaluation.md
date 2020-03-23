@@ -1,13 +1,13 @@
 ---
 layout: card
 title: Heuristic evaluation
-permalink: /discover/heuristic-evaluation/
+permalink: /observation/heuristic-evaluation/
 redirect_from:
   - /discover/heuristic-analysis/
   - /heuristic-evaluation/
   - /heuristic-analysis/
 description: A quick way to find common, large usability problems on a website.
-category: Discover
+category: Observation
 what: A quick way to find common, large usability problems on a website.
 why: To quickly identify common design problems that make websites hard to use without conducting more involved user research.
 timeRequired: 1–2 hours

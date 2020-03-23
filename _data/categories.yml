@@ -1,49 +1,83 @@
-- category_name: Discover
-  category_description: Build a greater understanding of your problem and the people it impacts.
-  category_info: Use the Discover Methods to build context for the problem you’re investigating. Get to know your potential users better and understand your stakeholders’ main concerns. The work you do during this phase will inform everything that follows, so take your time.
+- category_name: Awareness
+  category_description: If you don't know what you don't know, start here.
+  category_info: more detailed category info...
   methods:
-    - Cognitive walkthrough
-    - Contextual inquiry
-    - Design studio
-    - Dot voting
-    - Heuristic evaluation
-    - Hopes and fears
-    - KJ method
-    - Stakeholder and user interviews
-
-- category_name: Decide
-  category_description: Elaborate on research from your Discovery phase.
-  category_info: The Decide Methods help you derive insights from the information gathered during the Discovery phase. You’ll validate initial assumptions, develop a deeper understanding of workflows and processes, and develop design hypotheses.
-  methods:
-    - Affinity diagramming
     - Comparative analysis
+    - Content audit
     - Design hypothesis
-    - Design principles
-    - Journey mapping
-    - Mental modeling
-    - Personas
-    - Site mapping
-    - Storyboarding
-    - Style tiles
-    - Task flow analysis
-    - User scenarios
+    - Hopes and fears
+    - Stakeholder and user interviews
+  questions:
+    - What problem are we trying to solve?
+    - What assumptions do we have?
+    - What are the organizational goals?
+    - What do we have to work with?
+    - What questions do we have?
+    - Where do we start user research?
+    - What are people saying?
+    - Who are the audiences?
+    - How will we know if we're successful?
 
-- category_name: Make
-  category_description: Create a testable solution.
-  category_info: Once you’ve learned more about your users’ expectations, use the Make Methods to create testable designs. Sketching, wireframing, and prototyping will help you ensure your product reflects your users’ needs.
-  methods:
-    - Design pattern library
-    - Prototyping
-    - Wireframing
-
-- category_name: Validate
-  category_description: Test a design hypothesis.
-  category_info: Testing (and re-testing) your designs with users will help you build the best possible product. Our Validate Methods cover varied testing scenarios and potential user groups.
+- category_name: Observation
+  category_description: Once you know what you don't know, start interacting with customers and users.
+  category_info: more detailed category info...
   methods:
     - Card sorting
-    - Multivariate testing
+    - Cognitive walkthrough
+    - Contextual inquiry
+    - Heuristic evaluation
+    - Task flow analysis
+  questions:
+    - What are people doing today?
+    - What data do we need to collect?
+    - Who do we talk to next?
+    - How well does the current solution work?
+    - What mental models do people have?
+    - What new questions do we have?
+
+- category_name: Interpretation
+  category_description: When you have answers to your questions, make sense of what you've learned.
+  category_info: more detailed category info...
+  methods:
+    - Affinity diagramming
+    - Journey mapping
+    - Personas
+    - Site mapping
+    - User scenarios
+  questions:
+    - How do we make sense of what we've seen and collected?
+    - How might we interpret our findings?
+    - How do we communicate findings that actionable?
+    - What assertions or provocations can we make?
+    - What are the pain points and opportunities?
+
+- category_name: Exploration
+  category_description: Make some things based on your interpretation.
+  category_info: more detailed category info...
+  methods:
+    - Design pattern library
+    - Design studio
+    - Prototyping
+    - Storyboarding
+    - Wireframing
+  questions:
+    - How might we consider the whole experience?
+    - How might we address the pain points and opportunities?
+    - What ideas or hypotheses do we want to test?
+    - How might we remain focused on the audiences and their needs?
+
+- category_name: Validation
+  category_description: See if you're on the right track.
+  category_info: more detailed category info...
+  methods:
+    - Dot voting
     - Usability testing
     - Visual preference testing
+  questions:
+    - How do we know we're on the right track?
+    - How do decide and move forward?
+    - What did we learn from the latest iteration?
+    - Did we confirm or refute our assumption?
 
 - category_name: Fundamentals
   category_description: Foundational methods for practicing design research.

@@ -1,11 +1,11 @@
 ---
 layout: card
 title: Card sorting
-permalink: /validate/card-sorting/
+permalink: /observation/card-sorting/
 redirect_from:
   - /card-sorting/
 description: A categorization exercise in which participants divide concepts into different groups based on their
-category: Validate
+category: Observation
 what: A categorization exercise in which participants divide concepts into different groups based on their understanding of those concepts.
 why: To gain insights from users about how to organize content in an intuitive way.
 timeRequired: 15–30 minutes per user
@@ -33,7 +33,7 @@ There are two types of card sorting: open and closed. Most card sorts are perfor
 - [Research plan including card sorting from 18F's C2 project](https://github.com/18F/C2/wiki/Sprint-5:-Interaction-model-June-2016)
 </section>
 
-<section class="method--section method--section--government-considerations" markdown="1" > 
+<section class="method--section method--section--government-considerations" markdown="1" >
 
 ## Considerations for use in government  
 
