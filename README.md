@@ -1,28 +1,20 @@
 # Methods
 
-The 18F Methods were created to describe how 18F puts human-centered design into practice. While this was developed primarily as an internal resource, we hope it can help *everyone* adopt the methods of human-centered design. 
+The Bixal Methods are based on the stellar work done by the [18F Team](https://18f.gsa.gov/). When deciding how to document our own approach, we decided to use the 18F Methods as a starting point for building a toolkit that would reflect the way we work.
 
-## Why methods?
-
-In order to function well within cross-functional teams, designers need to know a few things: which methods they might choose from, why one particular method makes more sense than another at any given moment, and, once they’ve picked a method, how to actually execute it. 18F Methods collects this essential information as a series of cards. In practice, we’ve found the Methods can provide folks with a gateway into our work and build internal alignment around a shared vocabulary.
-
-### Specific to 18F, specific to the federal government
-
-It’s important to note that the 18F Methods are designed to account for two things that may not otherwise concern a more generic collection of design methods. First, these methods directly reflect and support 18F’s human-centered work. (They are also continuously updated in a human-centered way — how meta!) Second, 18F Methods are designed to keep federal employees on the happy side of the law. This collection specifically includes helpful information on topics for which designers working in the federal government may need clarification, such as privacy and the [Paperwork Reduction Act](pra.digital.gov).
+You can see [their original repository and README here](https://github.com/18F/methods). Note: This is not a fork of their repository, and because we plan on making significant changes to the content, we don't plan on merging our content back in. This is a completely separate clone.
 
 ## Getting started
 
 ### Reading the Methods online
 
-You’re presently looking at the Methods’ GitHub (code) repository. Please [visit our homepage](https://methods.18f.gov) to read the Methods online.
+You’re presently looking at the Methods’ GitHub (code) repository. Please [visit our homepage](https://bixal.github.io/methods/) to read the Methods online.
 
 ### Printing the Methods
-To print a copy of the Methods for offline use, visit the [Methods print page](https://methods.18f.gov/print/). You may need to select `file → print…` from your web browser.
+To print a copy of the Methods for offline use, visit the [Methods print page](https://bixal.github.io/print/). You may need to select `file → print…` from your web browser.
 
 ### Contributing to the Methods
-For more information on contributing to the Methods (or even making a suggestion), see [CONTRIBUTING.md](https://github.com/18F/methods/blob/staging/CONTRIBUTING.md). If you would like to suggest a new Method be added to the collection, please follow the instructions [here](https://github.com/18F/methods/wiki/Contributing#suggesting-new-methods).
-
-Learn more about our goals and the way we work in our [wiki](https://github.com/18F/methods/wiki). 
+Coming soon.
 
 ### Running the Methods website on your local machine
 
@@ -54,7 +46,7 @@ Bixal UX Team
 
 ## Past contributors
 
-18F Team
+[18F Team](https://github.com/18F/methods#past-contributors)
 
 ## Public domain
 
