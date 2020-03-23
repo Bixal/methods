@@ -1,11 +1,11 @@
 ---
 layout: card
 title: Design hypothesis
-permalink: /decide/design-hypothesis/
+permalink: /awareness/design-hypothesis/
 redirect_from:
   - /design-hypothesis/
 description: A listing and analysis of all the content on an existing website (including pages, files, videos, audio or other data) that your users might reasonably encounter.
-category: Decide
+category: Awareness
 what: Framing your work as a hypothesis means no longer just thinking about the thing you're making or building, but paying more attention to whether that work is achieving your intended goals and outcomes.
 
 This in turn means thinking about your work as a series of experiments you do with your users to learn if you're on the right path. Instead of asking "Did we ship the shopping cart feature?" you ask: "Did we make it easier and simpler for our customers to buy from us?"
@@ -23,7 +23,7 @@ timeRequired: 1-2 hours
 
     *We believe that doing/building/creating [this] for [this user] will result in [this outcome].*  
     *We’ll know we’re right when we see [this metric/signal].*
-    
+
 1. Once you've formulated your hypothesis, consider the following harm prompt to help the team think about and guard against potential unintended consequences of your work.   
 
     *But, this could be harmful for [this user] if [this outcome happens].*

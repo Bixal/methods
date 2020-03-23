@@ -1,11 +1,11 @@
 ---
 layout: card
 title: Visual preference testing
-permalink: /validate/visual-preference-testing/
+permalink: /validation/visual-preference-testing/
 redirect_from:
   - /visual-preference-testing/
 description: A method that allows potential users to review and provide feedback on a solution's visual direction.
-category: Validate
+category: Validation
 what: A method that allows potential users to review and provide feedback on a solution's visual direction.
 why: To align the established branding guidelines and attributes of a solution with the way end users view the overall brand and emotional feel.
 timeRequired: |

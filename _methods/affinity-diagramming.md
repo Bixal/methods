@@ -1,12 +1,12 @@
 ---
 layout: card
 title: Affinity diagramming
-permalink: /decide/affinity-diagramming/
+permalink: /interpretation/affinity-diagramming/
 redirect_from:
   - /affinity-diagramming/
 # Description is used for meta information and should be less than  
 description: A way of finding themes in collections of ideas, quotes, or observations.
-category: Decide
+category: Interpretation
 what: A way of finding themes in collections of ideas, quotes, or observations.
 why: To draw out insights from qualitative data quickly and collaboratively.
 timeRequired: 1 hour

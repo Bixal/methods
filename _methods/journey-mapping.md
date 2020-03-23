@@ -1,11 +1,11 @@
 ---
 layout: card
 title: Journey mapping
-permalink: /decide/journey-mapping/
+permalink: /interpretation/journey-mapping/
 redirect_from:
   - /journey-mapping/
 description: A visualization of the major interactions shaping a user's experience of a product or service.
-category: Decide
+category: Interpretation
 what: A visualization of the major interactions shaping a user's experience of a product or service.
 why: To provide design teams with a bird’s-eye view of a service that helps them see the sequence of interactions that make up a user’s experience including the complexity, successes, pain points, and emotions users experience along the way.
 timeRequired: 4–12 hours

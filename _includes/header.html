@@ -24,57 +24,69 @@
           <li>
             <button class="
             usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="side-nav-1">
-              <span>Discover</span>
+              <span>Awareness</span>
             </button>
             <ul id="side-nav-1" class="usa-nav-submenu" aria-hidden="true">
-              {% assign discovermethods = discover_methods | sort:"title"  %}
-              {% for method in discovermethods %}
+              {% assign awarenessmethods = awareness_methods | sort:"title"  %}
+              {% for method in awarenessmethods %}
                 <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
               {% endfor %}
-              <li><a href="{{site.baseurl}}/discover">See all Discover cards</a></li>
+              <li><a href="{{site.baseurl}}/awareness">See all Awareness cards</a></li>
             </ul>
           </li>
           <li>
             <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
-              <span>Decide</span>
+              <span>Observation</span>
             </button>
             <ul id="sidenav-2" class="usa-nav-submenu" aria-hidden="true">
-              {% assign decidemethods = decide_methods | sort:"title"  %}
-              {% for method in decidemethods %}
+              {% assign observationmethods = observation_methods | sort:"title"  %}
+              {% for method in observationmethods %}
                 <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
               {% endfor %}
-                <li><a href="{{site.baseurl}}/decide">See all Decide cards</a></li>
+                <li><a href="{{site.baseurl}}/observation">See all Observation cards</a></li>
             </ul>
           </li>
           <li>
             <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
-              <span>Make</span>
+              <span>Interpretation</span>
             </button>
             <ul id="sidenav-3" class="usa-nav-submenu" aria-hidden="true">
-              {% assign makemethods = make_methods | sort:"title"  %}
-              {% for method in makemethods %}
+              {% assign interpretationmethods = interpretation_methods | sort:"title"  %}
+              {% for method in interpretationmethods %}
                 <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
               {% endfor %}
-                <li><a href="{{site.baseurl}}/make">See all Make cards</a></li>
+                <li><a href="{{site.baseurl}}/interpretation">See all Interpretation cards</a></li>
             </ul>
           </li>
           <li>
             <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-4">
-              <span>Validate</span>
+              <span>Exploration</span>
             </button>
             <ul id="sidenav-4" class="usa-nav-submenu" aria-hidden="true">
-              {% assign validatemethods = validate_methods | sort:"title"  %}
-              {% for method in validatemethods %}
+              {% assign explorationmethods = exploration_methods | sort:"title"  %}
+              {% for method in explorationmethods %}
                 <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
               {% endfor %}
-                <li><a href="{{site.baseurl}}/validate">See all Validate cards</a></li>
+                <li><a href="{{site.baseurl}}/exploration">See all Exploration cards</a></li>
             </ul>
           </li>
           <li>
             <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-5">
-              <span>Fundamentals</span>
+              <span>Validation</span>
             </button>
             <ul id="sidenav-5" class="usa-nav-submenu" aria-hidden="true">
+              {% assign validationmethods = validation_methods | sort:"title"  %}
+              {% for method in validationmethods %}
+                <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>
+              {% endfor %}
+                <li><a href="{{site.baseurl}}/validation">See all Validation cards</a></li>
+            </ul>
+          </li>
+          <li>
+            <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-6">
+              <span>Fundamentals</span>
+            </button>
+            <ul id="sidenav-6" class="usa-nav-submenu" aria-hidden="true">
               {% assign fundamentalsmethods = fundamentals_methods | sort:"title"  %}
               {% for method in fundamentalsmethods %}
                 <li><a href="{{ site.baseurl }}{{ method.url }}">{{ method.title }}</a></li>

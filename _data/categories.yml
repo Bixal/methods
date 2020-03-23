@@ -55,8 +55,8 @@
   category_description: Make some things based on your interpretation.
   category_info: more detailed category info...
   methods:
-    - Design studio
     - Design pattern library
+    - Design studio
     - Prototyping
     - Storyboarding
     - Wireframing

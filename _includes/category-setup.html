@@ -1,7 +1,8 @@
-{% assign discover_methods     = (site.methods | where: "category", "Discover" ) %}
-{% assign decide_methods       = (site.methods | where: "category", "Decide" )   %}
-{% assign make_methods         = (site.methods | where: "category", "Make" )     %}
-{% assign validate_methods     = (site.methods | where: "category", "Validate" ) %}
+{% assign awareness_methods     = (site.methods | where: "category", "Awareness" ) %}
+{% assign observation_methods       = (site.methods | where: "category", "Observation" )   %}
+{% assign interpretation_methods         = (site.methods | where: "category", "Interpretation" )     %}
+{% assign exploration_methods     = (site.methods | where: "category", "Exploration" ) %}
+{% assign validation_methods     = (site.methods | where: "category", "Validation" ) %}
 {% assign fundamentals_methods = (site.methods | where: "category", "Fundamentals" ) %}
 {% assign category_methods     = (site.methods | where: "category", page.title ) %}
 {% assign all_methods          = (site.methods) %}
