@@ -78,7 +78,7 @@ h1, h2, h3, h4{
 }
 
 .usa-font-lead {
-  font-family: $font-sans;
+  font-family: $font-serif;
   font-size: $h2-font-size;
   font-weight: bold;
   letter-spacing: .5px;
@@ -148,7 +148,7 @@ h1, h2, h3, h4{
 
 @media screen and (min-width: 1201px) {
   .usa-nav-submenu {
-    background-color: $color-blue-dark;
+    background-color: $color-bixal-navy;
     border: 1px solid $color-inverse;
     border-top: 0;
 
@@ -159,7 +159,7 @@ h1, h2, h3, h4{
 
   .usa-nav-primary button[aria-expanded=true],
   .usa-nav-primary button[aria-expanded=true]:hover {
-    background-color: $color-blue-dark;
+    background-color: $color-bixal-navy;
     color: $color-inverse;
   }
 }
@@ -167,7 +167,7 @@ h1, h2, h3, h4{
 @media screen and (max-width: 950px) {
   .usa-nav-primary button,
   .usa-nav-secondary a {
-    color: #5b616b;
+    color: $color-gray;
     font-size: $h5-font-size;
     font-weight: bold;
   }

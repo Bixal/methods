@@ -28,20 +28,25 @@
   }
 }
 
-.category--discover  { background-color: $color-blue; }
-.category--make { background-color: $color-gold; }
-.category--validate { background-color: $color-red; }
-.category--decide { background-color: $color-green; }
+.category--awareness  { background-color: $color-bixal-purple; }
+.category--observation { background-color: $color-bixal-orange; }
+.category--interpretation { background-color: $color-bixal-teal; }
+.category--exploration { background-color: $color-bixal-maroon; }
+.category--validation { background-color: $color-bixal-green; }
+.category--fundamentals { background-color: $color-bixal-navy; }
 
-.category--discover--title { border-color: $color-blue; }
-.category--make--title { border-color: $color-gold; }
-.category--validate--title { border-color: $color-red; }
-.category--decide--title { border-color: $color-green; }
+
+.category--awareness--title { border-color: $color-bixal-purple; }
+.category--observation--title { border-color: $color-bixal-orange; }
+.category--interpretation--title { border-color: $color-bixal-teal; }
+.category--exploration--title { border-color: $color-bixal-maroon; }
+.category--validation--title { border-color: $color-bixal-green; }
+.category--fundamentals { border-color: $color-bixal-navy; }
 
 
 .category--fundamentals,
 .intro-header {
-  background-color: $color-blue-dark;
+  background-color: $color-bixal-navy;
   .category--header .category--subtitle,
   .category--header .category--title,
   .category--header p {
@@ -50,7 +55,8 @@
 }
 
 .intro-header {
-  color: $color-inverse;
+  color: $color-bixal-orange;
+  font-family: $font-serif;
 }
 
 @media screen and (max-width: 950px) {
@@ -74,39 +80,46 @@
       padding-left: 2.35765%;
     }
   }
-  .category--discover {
+  .category--awareness {
       .usa-width-two-thirds
-      { border-color: $color-blue; }
+      { border-color: $color-bixal-purple; }
       .usa-width-one-third {
-        border-color: lighten( $color-blue, 25% )
+        border-color: lighten( $color-bixal-purple, 25% )
       }
     }
-  .category--make {
+  .category--observation {
     .usa-width-two-thirds
-    { border-color: $color-gold; }
+    { border-color: $color-bixal-orange; }
     .usa-width-one-third {
-      border-color: lighten( $color-gold, 25% )
+      border-color: lighten( $color-bixal-orange, 25% )
     }
   }
-  .category--validate {
+  .category--interpretation {
     .usa-width-two-thirds
-    { border-color: $color-red; }
+    { border-color: $color-bixal-teal; }
     .usa-width-one-third {
-      border-color: lighten( $color-red, 25% )
+      border-color: lighten( $color-bixal-teal, 25% )
     }
   }
-  .category--decide {
+  .category--exploration {
     .usa-width-two-thirds
-    { border-color: $color-green; }
+    { border-color: $color-bixal-maroon; }
     .usa-width-one-third {
-      border-color: lighten( $color-green, 25% )
+      border-color: lighten( $color-bixal-maroon, 25% )
     }
   }
+  .category--validation {
+      .usa-width-two-thirds
+      { border-color: $color-bixal-green; }
+      .usa-width-one-third {
+        border-color: lighten( $color-bixal-green, 25% )
+      }
+    }
   .category--fundamentals {
     .usa-width-two-thirds
-    { border-color: $color-blue-dark; }
+    { border-color: $color-bixal-navy; }
     .usa-width-one-third {
-      border-color: lighten( $color-blue-dark, 25% )
+      border-color: lighten( $color-bixal-navy, 25% )
     }
     .category--header .category--subtitle,
     .category--header .category--title,
