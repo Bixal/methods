@@ -1,11 +1,11 @@
-{% assign awareness_methods     = (site.methods | where: "category", "Awareness" ) %}
-{% assign observation_methods       = (site.methods | where: "category", "Observation" )   %}
-{% assign interpretation_methods         = (site.methods | where: "category", "Interpretation" )     %}
-{% assign exploration_methods     = (site.methods | where: "category", "Exploration" ) %}
-{% assign validation_methods     = (site.methods | where: "category", "Validation" ) %}
+{% assign awareness_methods = (site.methods | where: "category", "Awareness" ) %}
+{% assign observation_methods = (site.methods | where: "category", "Observation" ) %}
+{% assign interpretation_methods = (site.methods | where: "category", "Interpretation" ) %}
+{% assign exploration_methods = (site.methods | where: "category", "Exploration" ) %}
+{% assign validation_methods = (site.methods | where: "category", "Validation" ) %}
 {% assign fundamentals_methods = (site.methods | where: "category", "Fundamentals" ) %}
-{% assign category_methods     = (site.methods | where: "category", page.title ) %}
-{% assign all_methods          = (site.methods) %}
+{% assign category_methods = (site.methods | where: "category", page.title ) %}
+{% assign all_methods = (site.methods) %}
 
 <! -- This is used for setting category variables -->
 {% capture var-category-name %}{{ page.category | downcase }}_methods{% endcapture %}

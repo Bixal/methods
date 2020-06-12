@@ -75,11 +75,12 @@ h1, h2, h3, h4{
 // bottom border for nav hover state
 .usa-nav-link:hover span {
   padding-bottom: 1.2rem;
+  border-bottom-color: $color-bixal-orange;
 }
 
 .usa-font-lead {
-  font-family: $font-sans;
-  font-size: $h2-font-size;
+  font-family: $font-serif;
+  font-size: $h1-font-size;
   font-weight: bold;
   letter-spacing: .5px;
   line-height: 1.3;
@@ -148,7 +149,7 @@ h1, h2, h3, h4{
 
 @media screen and (min-width: 1201px) {
   .usa-nav-submenu {
-    background-color: $color-blue-dark;
+    background-color: $color-bixal-navy;
     border: 1px solid $color-inverse;
     border-top: 0;
 
@@ -159,15 +160,19 @@ h1, h2, h3, h4{
 
   .usa-nav-primary button[aria-expanded=true],
   .usa-nav-primary button[aria-expanded=true]:hover {
-    background-color: $color-blue-dark;
+    background-color: $color-bixal-navy;
     color: $color-inverse;
+
+    span {
+      border-bottom-color: $color-bixal-lightblue;
+    }
   }
 }
 
 @media screen and (max-width: 950px) {
   .usa-nav-primary button,
   .usa-nav-secondary a {
-    color: #5b616b;
+    color: $color-gray;
     font-size: $h5-font-size;
     font-weight: bold;
   }
@@ -241,4 +246,8 @@ button,
       background-color: $color-gray-lightest;
     }
   }
+}
+
+.usa-nav-primary button:hover, .usa-nav-secondary-links a:hover {
+  background-color: $color-inverse;
 }
