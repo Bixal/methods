@@ -43,10 +43,27 @@
 .category--validation--title { border-color: $color-bixal-green; }
 .category--fundamentals { border-color: $color-bixal-navy; }
 
-
 .category--fundamentals,
 .intro-header {
   background-color: $color-bixal-navy;
+  .category--header .category--subtitle,
+  .category--header .category--title,
+  .category--header p {
+    color: $color-inverse;
+  }
+}
+
+.category--awareness {
+  background-color: $color-bixal-purple;
+  .category--header .category--subtitle,
+  .category--header .category--title,
+  .category--header p {
+    color: $color-inverse;
+  }
+}
+
+.category--exploration {
+  background-color: $color-bixal-maroon;
   .category--header .category--subtitle,
   .category--header .category--title,
   .category--header p {
@@ -86,6 +103,11 @@
       .usa-width-one-third {
         border-color: lighten( $color-bixal-purple, 25% )
       }
+      .category--header .category--subtitle,
+      .category--header .category--title,
+      .category--header p {
+        color: inherit;
+      }
     }
   .category--observation {
     .usa-width-two-thirds
@@ -106,6 +128,11 @@
     { border-color: $color-bixal-maroon; }
     .usa-width-one-third {
       border-color: lighten( $color-bixal-maroon, 25% )
+    }
+    .category--header .category--subtitle,
+    .category--header .category--title,
+    .category--header p {
+      color: inherit;
     }
   }
   .category--validation {
