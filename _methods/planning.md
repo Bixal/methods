@@ -3,7 +3,6 @@ layout: card
 title: Planning
 permalink: /fundamentals/planning/
 redirect_from:
-  - /fundamentals/
 description: Organizing a cycle of research based on current questions you want to answer.
 category: Fundamentals
 what: A research cycle plan is a collection of methods aimed at answering specific questions.
