@@ -12,7 +12,7 @@ timeRequired: N/A
 ---
 ## How to do it
 
-1. Download the template for a [research cycle plan](templates/Research%20Cycle%20Plan.docx) (Word).
+1. Download the template for a [research cycle plan](/templates/Research%20Cycle%20Plan.docx) (Word).
 1. Work with your team to align on the goals and questions you want to answer.
 1. Decide on what methods are most appropriate to answer those questions, keeping in mind constraints the project may have.
 1. Adjust the plan as needed and share it with the team before proceeding.
