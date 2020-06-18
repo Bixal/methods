@@ -4,15 +4,6 @@ layout: page
 permalink: /about/
 ---
 
-<div class="usa-alert usa-alert-info">
-<div class="usa-alert-body">
-<h3 class="usa-alert-heading">18F Content</h3>
-<p class="usa-alert-text">
-This page currently reflects the original 18F content. It will be updated with Bixal content.
-</p>
-</div>
-</div>
-
 # About
 
 The Bixal Methods are a collection of tools that describe how our teams put human-centered design into practice. They are based on the 18F Methods, but have been adpated to reflect the language and practices we use at Bixal. Our goal is to help our teams and federal clients adopt human-centered design into their projects. These cards are focused on design in the context of digital services, but can be adapted to non-technical design projects as well.
