@@ -3,6 +3,7 @@ layout: card
 title: Findings
 permalink: /fundamentals/findings/
 redirect_from:
+ - /findings/
 description: Sharing the output of research cycle.
 category: Fundamentals
 what: The findings communicate what you did, what you learn, and what it means for what comes next.
