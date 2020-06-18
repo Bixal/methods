@@ -4,7 +4,7 @@ Thanks for your interest in contributing to the Bixal Methods! We appreciate all
 - **Submitting a pull request.** Got a better solution in mind? Please glance through [our existing pull requests](https://github.com/Bixal/methods/pulls) to see if we're already working on a similar idea *before* submitting a pull request.
 
 ## Suggesting new Methods
-To submit a suggestion for a new Method, please [create an issue]((https://github.com/Bixal/methods/issues/new). We use four primary criteria to evaluate all new Method proposals.
+To submit a suggestion for a new Method, please [create an issue](https://github.com/Bixal/methods/issues/new). We use four primary criteria to evaluate all new Method proposals.
 Bixal Methods should be:
 * **Tried and true:** It’s been used on more than one Bixal project
 * **Succinct how-tos:** Think activity, not philosophy
