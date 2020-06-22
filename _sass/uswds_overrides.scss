@@ -127,6 +127,10 @@ h1, h2, h3, h4{
   }
 }
 
+.usa-logo-text {
+  text-transform: uppercase;
+}
+
 @media screen and (min-width: 951px) {
   .usa-logo a:before {
     display: none;
@@ -140,6 +144,7 @@ h1, h2, h3, h4{
 @media screen and (max-width: 950px) {
   .usa-logo-text {
     font-size: 2rem;
+    letter-spacing: 0.25rem;
   }
 
   .usa-nav-primary > li {
