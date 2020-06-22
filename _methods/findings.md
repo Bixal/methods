@@ -20,6 +20,7 @@ timeRequired: N/A
   - What you saw
   - What you learned
   - What you think it means
+  - What happens next
 1. Use the template to document your findings, but also consider alternate formats for actually presenting the findings. Sharing more concise slides that include imagery and even video clips are more impactful than scrolling through a Word document or expecting people to read it on their own.
 
 <section class="method--section method--section--government-considerations" markdown="1" >
