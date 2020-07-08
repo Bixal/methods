@@ -2,7 +2,7 @@ project: "Design Methods"
 name: methods
 github:
 - Bixal/methods
-description: A collection of design and research methods, including general descriptions and how-tos, to share how we work and build a common design vocabulary, inspired by 18F.
+description: A collection tools for modernizing digital services and improving customer experience.
 stage: beta
 milestones:
 - "February 2020: Conducted internal workshop using 18F Methods as a starting point for our own toolkit."
