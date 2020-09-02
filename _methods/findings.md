@@ -12,7 +12,7 @@ timeRequired: N/A
 ---
 ## How to do it
 
-1. Download the template for [research cycle findings](/methods/templates/Research%20Cycle%20Findings.docx) (Word).
+1. Download the template for [research cycle findings]({{site.baseurl}}/templates/Research%20Cycle%20Findings.docx) (Word).
 1. Collaborate with others on the team who participated in the research cycle, either as facilitators or observers. (Findings are about documenting what happened. People who weren't involved directly are consumers of this information, not contributors.)
 1. Ensure that your findings clearly connect the dots between the following:
   - What your questions were
