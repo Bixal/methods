@@ -13,7 +13,7 @@ permalink: /interview-debrief/
 
 # Example Interview Debrief Worksheet
 
-The following questions are provided as useful starting points for facilitating post-moderated research conversation (for example, after a [stakeholder or user interview](/stakeholder-and-user-interviews/), or a [usability test](/usability-testing/)). We recommend copying the questions to collaborative writing tool and giving the team four minutes per section to respond, and then facilitating a section-wise discussion.
+The following questions are provided as useful starting points for facilitating post-moderated research conversation (for example, after a [stakeholder or user interview]({{site.baseurl}}/stakeholder-and-user-interviews/), or a [usability test]({{site.baseurl}}/usability-testing/)). We recommend copying the questions to collaborative writing tool and giving the team four minutes per section to respond, and then facilitating a section-wise discussion.
 
 ## Warm up (4 minutes)
 
