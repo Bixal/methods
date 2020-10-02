@@ -1,7 +1,7 @@
 ---
 title: Make a suggestion
 layout: page
-permalink: suggestion
+permalink: /suggestion/
 ---
 
 # Make a suggestion
