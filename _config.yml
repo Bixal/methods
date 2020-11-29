@@ -21,8 +21,11 @@ collections:
   methods:
     output: true
     permalink: /:path/
+
 site:
-  title: Methods
+  title: Bixal Methods
+
+title: Bixal Methods
 
 description: A guide to help practice and promote human-centered design and agile delivery to improve outcomes.
 
