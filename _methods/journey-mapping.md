@@ -27,10 +27,10 @@ timeRequired: 4–12 hours
 
 ## Additional resources
 
+- [Journey Mapping 101.](https://www.nngroup.com/articles/journey-mapping-101/) Nielsen Norman Group.
 - [Example journey map](https://coe.gsa.gov/coe/farm-loans/index.html#journeymap) developed by USDA’s Farm Service Agency and GSA's Customer Experience Center of Excellence
 - [Adaptive Path's Guide to Experience Mapping.](http://adaptivepath.s3.amazonaws.com/apguide/download/Adaptive_Paths_Guide_to_Experience_Mapping.pdf) Adaptive Path (PDF).
 - [An explanation of journey mapping on Wicked Problems Worth Solving.](https://www.wickedproblems.com/6_journey_maps.php) Austin Center for Design.
-- ["Designing Digital Strategies, Part 1: Cartography."](http://www.uxbooth.com/articles/designing-digital-strategies-part-1-cartography/) UX Booth.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
