@@ -25,8 +25,9 @@ timeRequired: 2-3 hours per user goal
 
 ## Additional resources
 
-- <a href="https://blog.prototypr.io/ux-flows-and-why-theyre-so-confusing-26670b9089d4">UX Flows, and Why They’re So Confusing.</a> Prototypr.io.
+- <a href="https://help.flowmapp.com/help/how-to-create-user-flow/">How to Create User Flow.</a> Flowmapp.
 - <a href="http://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis.</a> Usability.gov
+- <a href="https://blog.prototypr.io/ux-flows-and-why-theyre-so-confusing-26670b9089d4">UX Flows, and Why They’re So Confusing.</a> Prototypr.io.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
