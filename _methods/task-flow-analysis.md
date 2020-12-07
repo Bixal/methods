@@ -25,8 +25,8 @@ timeRequired: 2-3 hours per user goal
 
 ## Additional resources
 
-- <a href="http://searchenginewatch.com/sew/how-to/2336547/task-analysis-the-key-ux-design-step-everyone-skips">"Task Analysis: The Key UX Design Step Everyone Skips." Larry Marine.</a>
-- Tool: <a href="http://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis.</a> Usability.gov
+- <a href="https://blog.prototypr.io/ux-flows-and-why-theyre-so-confusing-26670b9089d4">UX Flows, and Why They’re So Confusing.</a> Prototypr.io.
+- <a href="http://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis.</a> Usability.gov
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
