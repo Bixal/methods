@@ -1,12 +1,13 @@
 ---
 layout: card
-title: Stakeholder and user interviews
-permalink: /awareness/stakeholder-and-user-interviews/
+title: Stakeholder interviews
+permalink: /awareness/stakeholder-interviews/
 redirect_from:
   - /stakeholder-and-user-interviews/
-description: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.
+  - /awareness/stakeholder-and-user-interviews/
+description: "A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, particularly client representatives or other internal stakeholders. (<em>For interviewing actual users of the service, see the <a href='{{site.baseurl}}/observation/user-interviews/'>User Interviews</a> in <a href='{{site.baseurl}}/observation'>Observation</a>.</em>)"
 category: Awareness
-what: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.
+what: "A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, particularly the client representatives or other internal stakeholders. (<em>For interviewing actual users of the service, see the <a href='{{site.baseurl}}/observation/user-interviews/'>User Interviews</a> in <a href='{{site.baseurl}}/observation'>Observation</a>.</em>)"
 why: To build consensus about the problem statement and research objectives.
 timeRequired: 1–2 hours per interviewee
 ---
