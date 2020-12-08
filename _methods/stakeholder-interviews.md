@@ -5,9 +5,9 @@ permalink: /awareness/stakeholder-interviews/
 redirect_from:
   - /stakeholder-and-user-interviews/
   - /awareness/stakeholder-and-user-interviews/
-description: "A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, particularly client representatives or other internal stakeholders. (<em>For interviewing actual users of the service, see <a href='{{site.baseurl}}/observation/user-interviews/'>User Interviews</a> in <a href='{{site.baseurl}}/observation'>Observation</a>.</em>)"
+description: "A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, particularly client representatives or other internal stakeholders. (<em>For interviewing actual users of the service, see <a href='/observation/user-interviews/'>User Interviews</a> in <a href='/observation'>Observation</a>.</em>)"
 category: Awareness
-what: "A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, particularly the client representatives or other internal stakeholders. (<em>For interviewing actual users of the service, see <a href='{{site.baseurl}}/observation/user-interviews/'>User Interviews</a> in <a href='{{site.baseurl}}/observation'>Observation</a>.</em>)"
+what: "A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, particularly the client representatives or other internal stakeholders. (<em>For interviewing actual users of the service, see <a href='/observation/user-interviews/'>User Interviews</a> in <a href='/observation'>Observation</a>.</em>)"
 why: To build consensus about the problem statement and research objectives.
 timeRequired: 1–2 hours per interviewee
 ---
