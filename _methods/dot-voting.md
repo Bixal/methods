@@ -26,5 +26,5 @@ timeRequired: 15 minutes
 
 ## Considerations for use in government  
 
-No PRA implications: dot voting falls under "direct observation", which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
+No PRA implications: dot voting falls under "direct observation", which is explicitly exempt from the PRA, 5 CFR 1320(h)3. See the methods for [Recruiting]({{ site.baseurl }}/fundamentals/recruiting/) and [Privacy]({{ site.baseurl }}/fundamentals/privacy/) for more tips on taking input from the public.
 </section>

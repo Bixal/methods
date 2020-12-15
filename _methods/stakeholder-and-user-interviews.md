@@ -32,5 +32,5 @@ timeRequired: 1–2 hours per interviewee
 
 ## Considerations for use in government
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ site.baseurl }}/fundamentals/recruiting/) and [Privacy]({{ site.baseurl }}/fundamentals/privacy/) for more tips on taking input from the public.
 </section>
