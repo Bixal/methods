@@ -7,7 +7,7 @@ redirect_from:
 description: A rudimentary version, either static or functional, of something that exhibits realistic form and function.
 category: Exploration
 why: |
-  To enable direct examination of a design concept’s viability with a number of other methods such as [usability testing]({{ site.baseurl }}/validate/usability-testing/#usability-testing) or a [cognitive walkthrough]({{ site.baseurl }}/discover/cognitive-walkthrough/#cognitive-walkthrough). Static prototypes (often paper) are helpful for gaining feedback on users’ intentions and various design elements. Functional prototypes (often coded) are helpful for observing how users interact with the product.
+  To enable direct examination of a design concept’s viability with a number of other methods such as [usability testing](../../validation/usability-testing/) or a [cognitive walkthrough](../../observation/cognitive-walkthrough/). Static prototypes (often paper) are helpful for gaining feedback on users’ intentions and various design elements. Functional prototypes (often coded) are helpful for observing how users interact with the product.
 timeRequired: 4 hours
 ---
 
