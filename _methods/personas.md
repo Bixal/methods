@@ -6,7 +6,6 @@ redirect_from:
   - /personas/
 description: User archetypes based on conversations with real people.
 category: Interpretation
-what: User archetypes based on conversations with real people.
 why: To ground design in reality by forcing us to consider the goals, behaviors, and pain points of the people affected by our design decisions. Unlike marketing personas based on demographics or marketability, design personas describe how someone accomplishes goals.
 timeRequired: 2–3 hours
 ---

@@ -6,7 +6,6 @@ redirect_from:
   - /design-studio/
 description: An illustration-based way to facilitate communication (and brainstorming) between a project team and stakeholders.
 category: Exploration
-what: An illustration-based way to facilitate communication (and brainstorming) between a project team and stakeholders.
 why: To create a shared understanding and appreciation of design problems confronting the project team.
 timeRequired: 3–4 hours
 ---

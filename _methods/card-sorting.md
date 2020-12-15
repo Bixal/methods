@@ -4,9 +4,8 @@ title: Card sorting
 permalink: /observation/card-sorting/
 redirect_from:
   - /card-sorting/
-description: A categorization exercise in which participants divide concepts into different groups based on their
+description: A categorization exercise in which participants divide concepts into different groups based on their understanding of those concepts.
 category: Observation
-what: A categorization exercise in which participants divide concepts into different groups based on their understanding of those concepts.
 why: To gain insights from users about how to organize content in an intuitive way.
 timeRequired: 15–30 minutes per user
 ---

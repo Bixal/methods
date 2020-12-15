@@ -6,7 +6,6 @@ redirect_from:
   - /contextual-inquiry/
 description: The product team unobtrusively observes participants at work, with their permission, then asks questions.
 category: Observation
-what: The product team unobtrusively observes participants at work, with their permission, then asks questions.
 why: To learn how and why users do what they do; to discover needs and attitudes that might not emerge in an <a href="https://methods.18f.gov/discover/stakeholder-and-user-interviews/">interview</a> to map how tools, digital and otherwise, interact during complex activities.
 timeRequired: 1-2 hours per user
 governmentConsiderations:

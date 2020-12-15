@@ -7,7 +7,6 @@ redirect_from:
 # Description is used for meta information and should be less than  
 description: A way of finding themes in collections of ideas, quotes, or observations.
 category: Interpretation
-what: A way of finding themes in collections of ideas, quotes, or observations.
 why: To draw out insights from qualitative data quickly and collaboratively.
 timeRequired: 1 hour
 ---

@@ -5,7 +5,6 @@ permalink:
 redirect_from:
 description: An improvisational brainstorm based on interaction and movement with the body.
 category: 
-what: An improvisational brainstorm based on interaction and movement with the body.
 why: To remind participants that interactions are human and physical, to teach stakeholders empathy for users, and to get away from our computers.
 timeRequired: 1-2 hours
 ---

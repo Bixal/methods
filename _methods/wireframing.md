@@ -6,7 +6,6 @@ redirect_from:
   - /wireframing/
 description: A simple visual representation of a product or service interface.
 category: Exploration
-what: A simple visual representation of a product or service interface.
 why: To prioritize substance and relationships over decoration as you begin defining the solution. Wireframing also gives designers a great opportunity to start asking developers early questions about feasibility and structure.
 timeRequired: 1-3 hours
 ---

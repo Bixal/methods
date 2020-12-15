@@ -6,7 +6,6 @@ redirect_from:
   - /visual-preference-testing/
 description: A method that allows potential users to review and provide feedback on a solution's visual direction.
 category: Validation
-what: A method that allows potential users to review and provide feedback on a solution's visual direction.
 why: To align the established branding guidelines and attributes of a solution with the way end users view the overall brand and emotional feel.
 timeRequired: |
   4-12 hours for [style tiles](/decide/style-tiles/#style-tiles). 30 minutes per participant to get feedback.

@@ -6,7 +6,6 @@ redirect_from:
   - /usability-testing/
 description: Observing users as they attempt to use a product or service while thinking out loud.
 category: Validation
-what: Observing users as they attempt to use a product or service while thinking out loud.
 why: To better understand how intuitive the team's design is, and how adaptable it is to meeting user needs.
 timeRequired: 30 minutes to 1 hour per test
 ---

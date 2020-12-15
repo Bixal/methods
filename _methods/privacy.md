@@ -4,9 +4,8 @@ title: Privacy
 permalink: /fundamentals/privacy/
 redirect_from:
   - /privacy/
-description: Designers have an obligation to respect and protect privacy.
+description: Designers potentially might work with many different categories of information, across a number of different contexts. You have an obligation to steward information in a way that respects privacy.
 category: Fundamentals
-what: Designers potentially might work with many different categories of information, across a number of different contexts. You have an obligation to steward information in a way that respects privacy.
 why: Designers have an obligation to respect and protect privacy. People will not honestly participate in design processes, nor make use of products and services, they do not trust.
 timeRequired: N/A
 ---

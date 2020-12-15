@@ -6,7 +6,6 @@ redirect_from:
   - /stakeholder-and-user-interviews/
 description: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.
 category: Awareness
-what: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.
 why: To build consensus about the problem statement and research objectives.
 timeRequired: 1–2 hours per interviewee
 ---

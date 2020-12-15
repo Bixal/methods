@@ -6,7 +6,6 @@ redirect_from:
   - /multivariate-testing/
 description: A test of variations to multiple sections or features of a page to see which combination of variants has the greatest effect. Different from an A/B test, which tests variation to just one section or feature.
 category: Validate
-what: A test of variations to multiple sections or features of a page to see which combination of variants has the greatest effect. Different from an A/B test, which tests variation to just one section or feature.
 why: To incorporate different contexts, channels, or user types into addressing a user need. Situating a call to action, content section, or feature set differently can help you build a more effective whole solution from a set of partial solutions.
 timeRequired: 2–5 days of effort, 1–4 weeks elapsed through the testing period
 ---
