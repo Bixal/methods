@@ -13,7 +13,7 @@ timeRequired: 1-3 hours
 
 ## How to do it
 
-1. Determine a few [personas](https://methods.18f.gov/decide/personas/) or user groups to focus on. Consider what scenario(s) might be the most critical for that user, including scenarios in which users face limited [accessibility](https://accessibility.18f.gov/).
+1. Determine a few [personas](/interpretation/personas/) or user groups to focus on. Consider what scenario(s) might be the most critical for that user, including scenarios in which users face limited [accessibility](https://accessibility.digital.gov/).
 1. For each user, list out their goals, motivations, and the context/environment in which they interact with your product, service, or website.
 1. Put the details you came up with in step 2 into a story format that includes the following information:
     * who they are (persona or user group)
