@@ -8,7 +8,7 @@ description: A method that allows potential users to review and provide feedback
 category: Validation
 why: To align the established branding guidelines and attributes of a solution with the way end users view the overall brand and emotional feel.
 timeRequired: |
-  4-12 hours for [style tiles](/decide/style-tiles/#style-tiles). 30 minutes per participant to get feedback.
+  4-12 hours for [style tiles]({{ site.baseurl }}/decide/style-tiles/#style-tiles). 30 minutes per participant to get feedback.
 ---
 
 ## How to do it
@@ -33,5 +33,5 @@ timeRequired: |
 
 ## Considerations for use in government  
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/#recruiting) and [Privacy](/fundamentals/privacy/#privacy) for more tips on taking input from the public.
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ site.baseurl }}/fundamentals/recruiting/) and [Privacy]({{ site.baseurl }}/fundamentals/privacy/) for more tips on taking input from the public.
 </section>
