@@ -12,7 +12,7 @@ timeRequired: 2–3 hours
 
 ## How to do it
 
-1. Gather research from earlier activities like [contextual inquiry]({{ site.baseurl }}/discover/contextual-inquiry/) or [stakeholder interviews]({{ site.baseurl }}/discover/stakeholder-and-user-interviews/) in a way that's easy to review. You can create placeholder personas without research to teach user-centered thinking, but because they're effectively stereotypes, avoid using them for implementable design decisions.
+1. Gather research from earlier activities like [contextual inquiry]({{ site.baseurl }}/observation/contextual-inquiry/) or [stakeholder interviews]({{ site.baseurl }}/awareness/stakeholder-and-user-interviews/) in a way that's easy to review. You can create placeholder personas without research to teach user-centered thinking, but because they're effectively stereotypes, avoid using them for implementable design decisions.
 1. Create a set of user archetypes based on how you believe people will use your solution. These typically get titles (for example, "data administrators" rather than "those who submit data").
 1. Analyze your records for patterns as they relate to user archetypes. Specifically note frequently observed goals, motivations, behaviors, and pain points.
 1. Pair recurring goals, behaviors, and pain points with archetypes. Give each archetype a name and a fictional account of their day. Add a photo of someone who fits the description, but ideally not an image of someone you've actually interviewed and who may be recognized.
