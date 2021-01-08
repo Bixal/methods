@@ -20,8 +20,8 @@ timeRequired: 30 minutes to 1 hour per test
 - Write tasks that reflect how people might naturally approach the site. Use plain language and avoid using tree labels in the tasks.
 - Limit the activity to 10 tasks to avoid low completion rates or participants getting too familiar with the tree.
 3. Run the test. 
-- Tree test is often executed as a remote unmoderated study. After recruiting participants, send them the link to the test, and the testing tool will walk them through the process. Optimal Workshop it the tool that allows to set up and run unmoderated tree tests, called Tree Jack
-- It is recommended to conduct a few moderated sessions beforehand, to ensure the tasks are understood by participants and to ask personalized follow up questions to get context of user behavior that can otherwise be hard to spot in the quantitative data.
+- Send participants the link to the test or watch them do it in person.
+- If possible, ask follow up questions to get more context that can otherwise be hard to spot in the quantitative data.
 4. Analyze results. The test tool will give you results in the following numbers relationships between which will need further interpreting:
 - "Success rate" shows the persentage of testers who successfully completed each task
 - "Directness" the percentage of testers who successfully completed each task without making wrong guesses first
