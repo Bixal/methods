@@ -4,17 +4,11 @@ title: Tree testing
 permalink: /validation/tree-testing/
 redirect_from:
   - /tree-testing/
-description: A test to see how well people can navigate to the intended location of a given website structure.
+description: A test to see how well people can navigate to the intended location of a given website structure. Conduct tree testing after card sorting to increase confidence in navigation content.
 category: Validation
-why: To validate how well users understand the page names and organization of a proposed website structure.
+why: To validate how well users understand the labels, categories, and organization of a proposed website structure, and learn where they may get lost while trying to complete a task.
 timeRequired: 30 minutes to 1 hour per test
 ---
-## What
-
-A tree test evaluates a hierarchical category structure (tree) of the website by having users find the locations in the tree where specific tasks can be completed. It can be done for the whole website or parts of the website. It's recommended to conduct tree testing after card sorting and before designing page layouts or navigation menus.
-
-## Why
-To evaluate, explore and refine proposed menu structure, labels and information categories and quickly check how easy people find information on the website and where they get lost while trying to complete a task.
 
 ## How to do it
 
