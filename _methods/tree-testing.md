@@ -22,12 +22,8 @@ timeRequired: 30 minutes to 1 hour per test
 3. Run the test. 
 - Send participants the link to the test or watch them do it in person.
 - If possible, ask follow up questions to get more context that can otherwise be hard to spot in the quantitative data.
-4. Analyze results. The test tool will give you results in the following numbers relationships between which will need further interpreting:
-- "Success rate" shows the persentage of testers who successfully completed each task
-- "Directness" the percentage of testers who successfully completed each task without making wrong guesses first
-- "Time" - the average time needed to complete each task
-- "First click" - where most testers clicked first for each task
-- "Destination" - where most people finished for each task, their final answer, correct or otherwise 
+4. Analyze the results.
+- Optimal Workshop includes the following useful data for further interpretation, such as how many people completed each task successfully, how directly they found the destination, and how long it took them. 
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
