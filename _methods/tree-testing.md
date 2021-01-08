@@ -47,5 +47,5 @@ timeRequired: 30 minutes to 1 hour per test
 
 ## Considerations for use in government  
 
-Due to the size of statistically significant sample for unmoderated tree test being 50 people, tree testing is subject to PRA implications. See the methods for [Recruiting]({{ site.baseurl }}/fundamentals/recruiting/) and [Privacy]({{ site.baseurl }}/fundamentals/privacy/) for more tips on taking input from the public.
+This method works best with around 50 people, which has PRA implications. See the methods for [Recruiting]({{ site.baseurl }}/fundamentals/recruiting/) and [Privacy]({{ site.baseurl }}/fundamentals/privacy/) for more tips on taking input from the public.
 </section>
