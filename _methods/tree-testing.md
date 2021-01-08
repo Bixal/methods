@@ -4,7 +4,7 @@ title: Tree testing
 permalink: /validation/tree-testing/
 redirect_from:
   - /tree-testing/
-description: A test to see how well people can navgiate to the intended location of a given website structure.
+description: A test to see how well people can navigate to the intended location of a given website structure.
 phase: Validation
 why: To validate how well users understand the page names and organization of a proposed website structure.
 timeRequired: 30 minutes to 1 hour per test
@@ -19,17 +19,17 @@ To evaluate, explore and refine proposed menu structure, labels and information 
 ## How to do it
 
 1. Build tree. 
-- A tree is a text-only version of hierarchy, simila to a sitemap. It's a complete list of all content categories and subcateggories. 
+- A tree is a text-only version of hierarchy, similar to a sitemap. It's a complete list of all content categories and subcategories. 
 - Include the full depth down to the lowest level of subcategories you want to test. 
 - Each subcategory should provide the full list of all the options in that area in order to elicit realistic behavior from participants who often evaluate link labels by comparing them with nearby alternatives. 
 2. Define tasks.
 - The tasks are instructions that explain to participants what they should attempt to find. 
 - Decide which categories and labels to target. 
-- Ask users to find something contained within the category. Include tasks that target key website goals and user tasks as well as potential problem areas (i.g. new proposed categories). Write tasks that reflect how your users might naturally approach your website. Write in natural plain language and avoid using tree labels in the tasks.
+- Ask users to find something contained within the category. Include tasks that target key website goals and user tasks as well as potential problem areas (e.g. new proposed categories). Write tasks that reflect how your users might naturally approach your website. Write in natural plain language and avoid using tree labels in the tasks.
 - Set at least one correct destination for every task on the tree. 
 - Match the number of tasks to the parts of the tree that you want to test. Have no more than 10 tasks per tree test, to avoid low completion rates or participant getting too familiar with the tree.
 3. Run the test. 
-- Tree test is often executed as a remote unmoderated study. After recruiting participants, send them the link to the test, and the testing tool will walk them through the process. Optimal Workshop it the tool that allows to set up and run unmoderated tree tests, called Treejack.
+- Tree test is often executed as a remote unmoderated study. After recruiting participants, send them the link to the test, and the testing tool will walk them through the process. Optimal Workshop it the tool that allows to set up and run unmoderated tree tests, called Tree Jack
 - It is recommended to conduct a few moderated sessions beforehand, to ensure the tasks are understood by participants and to ask personalized follow up questions to get context of user behavior that can otherwise be hard to spot in the quantitative data.
 
 <section class="method--section method--section--18f-example" markdown="1" >
