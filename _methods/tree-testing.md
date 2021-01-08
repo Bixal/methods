@@ -39,7 +39,7 @@ timeRequired: 30 minutes to 1 hour per test
 
 - [Tree Testing: Fast, Iterative Evaluation of Menu Labels and Categories.](https://www.nngroup.com/articles/tree-testing/) Nielsen Norman Group.
 - [Tree testing 101.](https://www.optimalworkshop.com/learn/101s/tree-testing/) Optimal Workshop.
-- [Tree Testing](https://www.userinterviews.com/ux-research-field-guide-chapter/tree-testing)
+- [Tree Testing.](https://www.userinterviews.com/ux-research-field-guide-chapter/tree-testing) User Interviews.
 
 </section>
 
