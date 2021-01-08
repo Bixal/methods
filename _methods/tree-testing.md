@@ -13,7 +13,7 @@ timeRequired: 30 minutes to 1 hour per test
 ## How to do it
 
 1. Build the tree. 
-- Use a tool like [Optimal Workshop](https://www.optimalworkshop.com/) or a spreadsheet to create a site hierarchy, including all the categories and subcategories you want to test.
+- Use a tool like [Optimal Workshop](https://www.optimalworkshop.com/) or a prototyping tool to create a site hierarchy, including all the categories and subcategories you want to test.
 - Provide options for each subcategory to prompt realistic behavior from participants who often evaluate link labels by comparing them with alternatives. 
 2. Define the tasks. 
 - Ask participants to find or do something within the site, focusing on key website goals and user tasks, as well as potential problem areas. Set at least one correct destination for every task.
