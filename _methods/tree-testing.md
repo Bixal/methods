@@ -12,10 +12,9 @@ timeRequired: 30 minutes to 1 hour per test
 
 ## How to do it
 
-1. Build tree. 
-- A tree is a text-only version of hierarchy, similar to a sitemap. It's a complete list of all content categories and subcategories. 
-- Include the full depth down to the lowest level of subcategories you want to test. 
-- Each subcategory should provide the full list of all the options in that area in order to elicit realistic behavior from participants who often evaluate link labels by comparing them with nearby alternatives. 
+1. Build the tree. 
+- Use a tool like [Optimal Workshop](https://www.optimalworkshop.com/) or a spreadsheet to create a site hierarchy, including all the categories and subcategories you want to test.
+- Provide options for each subcategory to prompt realistic behavior from participants who often evaluate link labels by comparing them with alternatives. 
 2. Define tasks.
 - The tasks are instructions that explain to participants what they should attempt to find. 
 - Decide which categories and labels to target. 
