@@ -5,7 +5,7 @@ permalink: /validation/tree-testing/
 redirect_from:
   - /tree-testing/
 description: A test to see how well people can navigate to the intended location of a given website structure.
-phase: Validation
+category: Validation
 why: To validate how well users understand the page names and organization of a proposed website structure.
 timeRequired: 30 minutes to 1 hour per test
 ---
