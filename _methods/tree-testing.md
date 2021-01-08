@@ -31,6 +31,12 @@ To evaluate, explore and refine proposed menu structure, labels and information 
 3. Run the test. 
 - Tree test is often executed as a remote unmoderated study. After recruiting participants, send them the link to the test, and the testing tool will walk them through the process. Optimal Workshop it the tool that allows to set up and run unmoderated tree tests, called Tree Jack
 - It is recommended to conduct a few moderated sessions beforehand, to ensure the tasks are understood by participants and to ask personalized follow up questions to get context of user behavior that can otherwise be hard to spot in the quantitative data.
+4. Analyze results. The test tool will give you results in the following numbers relationships between which will need further interpreting:
+- "Success rate" shows the persentage of testers who successfully completed each task
+- "Directness" the percentage of testers who successfully completed each task without making wrong guesses first
+- "Time" - the average time needed to complete each task
+- "First click" - where most testers clicked first for each task
+- "Destination" - where most people finished for each task, their final answer, correct or otherwise 
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
@@ -46,6 +52,7 @@ To evaluate, explore and refine proposed menu structure, labels and information 
 
 - [Tree Testing: Fast, Iterative Evaluation of Menu Labels and Categories.](https://www.nngroup.com/articles/tree-testing/) Nielsen Norman Group.
 - [Tree testing 101.](https://www.optimalworkshop.com/learn/101s/tree-testing/) Optimal Workshop.
+- [Tree Testing](https://www.userinterviews.com/ux-research-field-guide-chapter/tree-testing)
 
 </section>
 
