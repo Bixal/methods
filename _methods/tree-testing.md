@@ -15,12 +15,10 @@ timeRequired: 30 minutes to 1 hour per test
 1. Build the tree. 
 - Use a tool like [Optimal Workshop](https://www.optimalworkshop.com/) or a spreadsheet to create a site hierarchy, including all the categories and subcategories you want to test.
 - Provide options for each subcategory to prompt realistic behavior from participants who often evaluate link labels by comparing them with alternatives. 
-2. Define tasks.
-- The tasks are instructions that explain to participants what they should attempt to find. 
-- Decide which categories and labels to target. 
-- Ask users to find something contained within the category. Include tasks that target key website goals and user tasks as well as potential problem areas (e.g. new proposed categories). Write tasks that reflect how your users might naturally approach your website. Write in natural plain language and avoid using tree labels in the tasks.
-- Set at least one correct destination for every task on the tree. 
-- Match the number of tasks to the parts of the tree that you want to test. Have no more than 10 tasks per tree test, to avoid low completion rates or participant getting too familiar with the tree.
+2. Define the tasks. 
+- Ask participants to find or do something within the site, focusing on key website goals and user tasks, as well as potential problem areas. Set at least one correct destination for every task.
+- Write tasks that reflect how people might naturally approach the site. Use plain language and avoid using tree labels in the tasks.
+- Limit the activity to 10 tasks to avoid low completion rates or participants getting too familiar with the tree.
 3. Run the test. 
 - Tree test is often executed as a remote unmoderated study. After recruiting participants, send them the link to the test, and the testing tool will walk them through the process. Optimal Workshop it the tool that allows to set up and run unmoderated tree tests, called Tree Jack
 - It is recommended to conduct a few moderated sessions beforehand, to ensure the tasks are understood by participants and to ask personalized follow up questions to get context of user behavior that can otherwise be hard to spot in the quantitative data.
