@@ -23,7 +23,7 @@ timeRequired: 30 minutes to 1 hour per test
 - Send participants the link to the test or watch them do it in person.
 - If possible, ask follow up questions to get more context that can otherwise be hard to spot in the quantitative data.
 4. Analyze the results.
-- Optimal Workshop includes the following useful data for further interpretation, such as how many people completed each task successfully, how directly they found the destination, and how long it took them. 
+- Optimal Workshop includes useful data for further interpretation, such as how many people completed each task successfully, how directly they found the destination, and how long it took them. 
 
 <section class="method--section method--section--18f-example" markdown="1" >
 
