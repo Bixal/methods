@@ -6,7 +6,6 @@ redirect_from:
   - /design-principles/
 description: Written statements, generally in the form of imperatives like "Earn people's trust," that serve as guiding lights during decision-making.
 category: Decide
-what: Written statements, generally in the form of imperatives like "Earn people's trust," that serve as guiding lights during decision-making.
 why: To give the team and the stakeholders a shared point of reference when negotiating next steps. Good design principles are specific to the project, not general truths, and should help teams say "no" to otherwise interesting proposals or generate ideas when they're stuck.
 timeRequired: 1 week, plus occasional refresher meetings
 ---
@@ -40,5 +39,5 @@ timeRequired: 1 week, plus occasional refresher meetings
 
 ## Considerations for use in government  
 
-No PRA implications. Generally, no information is collected from members of the public. Even when stakeholders are members of the public, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey), 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
+No PRA implications. Generally, no information is collected from members of the public. Even when stakeholders are members of the public, the PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey), 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ site.baseurl }}/fundamentals/recruiting/) and [Privacy]({{ site.baseurl }}/fundamentals/privacy/) for more tips on taking input from the public.
 </section>

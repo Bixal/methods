@@ -6,7 +6,6 @@ redirect_from:
   - /mental-modeling/
 description: A simple reference model that correlates existing and potential interfaces with user behaviors.
 category: Decide
-what: A simple reference model that correlates existing and potential interfaces with user behaviors.
 why: To help designers anticipate how design decisions might facilitate future behaviors.
 timeRequired: 1–2 hours
 ---

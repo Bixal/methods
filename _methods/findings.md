@@ -4,9 +4,8 @@ title: Findings
 permalink: /fundamentals/findings/
 redirect_from:
  - /findings/
-description: Sharing the output of research cycle.
+description: The findings communicate what you did, what you learn, and what it means for what comes next.
 category: Fundamentals
-what: The findings communicate what you did, what you learn, and what it means for what comes next.
 why: For research to be actionable, the findings from each cycle have to be communicated to the team and other stakeholders clearly and confidently.
 timeRequired: N/A
 ---

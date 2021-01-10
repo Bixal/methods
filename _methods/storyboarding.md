@@ -4,9 +4,8 @@ title: Storyboarding
 permalink: /exploration/storyboarding/
 redirect_from:
   - /storyboarding/
-description: A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, including users.
+description: A visual sequence of a specific use case or scenario, coupled with a narrative.
 category: Exploration
-what: A visual sequence of a specific use case or scenario, coupled with a narrative.
 why: To visualize interactions and relationships that might exist between a user and a solution in the context of the user's full experience.
 timeRequired: 1–2 days depending on the complexity of the scenario(s)
 ---
