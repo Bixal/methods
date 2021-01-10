@@ -4,9 +4,8 @@ title: Hopes and fears
 permalink: /awareness/hopes-and-fears/
 redirect_from:
   - /hopes-and-fears/
-description: An exercise that quickly surfaces a group’s hopes and fears for the future
+description: An exercise that quickly surfaces a group’s hopes and fears for the future.
 category: Awareness
-what: An exercise that quickly surfaces a group’s hopes and fears for the future
 why: To establish a baseline understanding of a group’s expectations and concerns about a project and to give each person an opportunity to voice their perspective
 
 timeRequired: 30–60 mins

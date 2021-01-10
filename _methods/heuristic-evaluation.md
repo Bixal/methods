@@ -8,7 +8,6 @@ redirect_from:
   - /heuristic-analysis/
 description: A quick way to find common, large usability problems on a website.
 category: Observation
-what: A quick way to find common, large usability problems on a website.
 why: To quickly identify common design problems that make websites hard to use without conducting more involved user research.
 timeRequired: 1–2 hours
 ---
@@ -35,5 +34,5 @@ timeRequired: 1–2 hours
 
 ## Considerations for use in government  
 
-No PRA Implications, as heuristic evaluations usually include a small number of evaluators. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
+No PRA Implications, as heuristic evaluations usually include a small number of evaluators. If conducted with nine or fewer members of the public, the PRA does not apply, 5 CFR 1320.5(c)4. If participants are employees, the PRA does not apply. See the methods for [Recruiting]({{ site.baseurl }}/fundamentals/recruiting/) and [Privacy]({{ site.baseurl }}/fundamentals/privacy/) for more tips on taking input from the public.
 </section>

@@ -13,7 +13,7 @@ permalink: /rolling-issues-log/
 
 # Example Rolling Issues Log
 
-This document is a template for teams to use while observing or debriefing after a [usability test](/usability-testing). It's inspired by [this blog post](http://usabilityworks.com/consensus-on-observations-in-real-time-keeping-a-rolling-list-of-issues/).
+This document is a template for teams to use while observing or debriefing after a [usability test]({{ site.baseurl }}/usability-testing). It's inspired by [this blog post](http://usabilityworks.com/consensus-on-observations-in-real-time-keeping-a-rolling-list-of-issues/).
 
 
 ## Study 1 – Usability test of `[scenario, task, feature]`

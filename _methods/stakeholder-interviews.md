@@ -7,7 +7,6 @@ redirect_from:
   - /awareness/stakeholder-and-user-interviews/
 description: "A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, particularly client representatives or other internal stakeholders. (<em>For interviewing actual users of the service, see <a href='/observation/user-interviews/'>User Interviews</a> in <a href='/observation'>Observation</a>.</em>)"
 category: Awareness
-what: "A wide-spanning set of semi-structured interviews with anyone who has an interest in a project's success, particularly the client representatives or other internal stakeholders. (<em>For interviewing actual users of the service, see <a href='/observation/user-interviews/'>User Interviews</a> in <a href='/observation'>Observation</a>.</em>)"
 why: To build consensus about the problem statement and research objectives.
 timeRequired: 1–2 hours per interviewee
 ---
@@ -34,5 +33,5 @@ timeRequired: 1–2 hours per interviewee
 
 ## Considerations for use in government
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting](/fundamentals/recruiting/) and [Privacy](/fundamentals/privacy/) for more tips on taking input from the public.
+No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation, 5 CFR 1320.3(h)3. See the methods for [Recruiting]({{ site.baseurl }}/fundamentals/recruiting/) and [Privacy]({{ site.baseurl }}/fundamentals/privacy/) for more tips on taking input from the public.
 </section>

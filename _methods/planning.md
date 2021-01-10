@@ -4,9 +4,8 @@ title: Planning
 permalink: /fundamentals/planning/
 redirect_from:
   - /planning/
-description: Organizing a cycle of research based on current questions you want to answer.
+description: A collection of methods and related activities aimed at answering specific questions.
 category: Fundamentals
-what: A research cycle plan is a collection of methods aimed at answering specific questions.
 why: Research is iterative and ongoing throughout a project. By planning research in cycles based on current questions, you can show progress and make it easier to decide next steps.
 timeRequired: N/A
 ---
