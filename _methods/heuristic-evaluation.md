@@ -1,26 +1,29 @@
 ---
 layout: card
 title: Heuristic evaluation
-permalink: /observation/heuristic-evaluation/
+permalink: /awareness/heuristic-evaluation/
 redirect_from:
   - /discover/heuristic-analysis/
   - /heuristic-evaluation/
   - /heuristic-analysis/
+  - /observation/heuristic-evaluation/
 description: A quick way to find common, large usability problems on a website.
-category: Observation
+category: Awareness
 why: To quickly identify common design problems that make websites hard to use without conducting more involved user research.
 timeRequired: 1–2 hours
 ---
 
 ## How to do it
 
-1. Recruit a group of three to five people familiar with evaluation methods. These people are not necessarily designers, but are familiar with common usability best practices. They are usually not users.  
-1. Ask each person to individually create a list of "heuristics" or general usability best practices. Examples of heuristics from Nielsen's "10 Usability Heuristics for User Interface Design" include:
-    1.  The website should keep users informed about what is going on, through appropriate feedback within reasonable time.
-    1.  The system should speak the user's language, with words, phrases and concepts familiar to the user, rather than system-oriented terms.
-    1. Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue.
-1. Ask each person to evaluate the website against their list and write down possible problems.
-1. After individual evaluations, gather people to discuss what they found and prioritize potential problems.
+1. Recruit a group of three to five people familiar with heuristic evaluation methods. 
+    - Evaluators do not necessarily need to be designers, but they should be familiar with common usability best practices.
+    - Ideally, they are not users or overly familiar with the site being evaluated.  
+1. Provide a set of recognized heuristics for the group to evaluate the site against.
+    - The most common resource is [10 Usability Heuristics for User Interface Design](http://www.nngroup.com/articles/ten-usability-heuristics/) from Nielsen Norman Group.
+    - The checklist for [Play 3: Make it simple and intuitive](https://playbook.cio.gov/#play3) from the Digital Services Playbook is also a good resource.
+1. Have each person evaluate the website using the provided heuristics and document problems.
+    - Optionally, have them capture a severity level and potential solution (if apparent) for each problem.
+1. Review the data and prioritize problems to address.
 
 <section class="method--section method--section--additional-resources" markdown="1">
 
@@ -28,6 +31,7 @@ timeRequired: 1–2 hours
 
 - ["10 Usability Heuristics for User Interface Design."](http://www.nngroup.com/articles/ten-usability-heuristics/) Jakob Nielsen.
 - ["How to Conduct a Heuristic Evaluation."](http://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) Jakob Nielsen.
+- ["Play 3: Make it simple and intuitive."](https://playbook.cio.gov/#play3) Digital Services Playbook.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
