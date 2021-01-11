@@ -6,6 +6,7 @@ redirect_from:
   - /task-flow-analysis/
   - /observation/task-flow-analysis/
   - /interpretation/user-flow-diagraming/
+  - /user-flow-diagramming/
 description: A step-by-step diagram of how a user will interact with a system in order to reach a goal. The diagram traces a user's possible paths through sequences of tasks and decision points in pursuit of their goal. The tasks and decision points should represent steps taken by the user, as well as steps taken by the system.
 category: Interpretation
 why: To validate a team's understanding of users' goals, common scenarios, and tasks, and to illustrate in a solution-agnostic way the overall flow of tasks through which a user progresses to accomplish a goal. User flow diagrams also help surface obstacles in the way of users achieving their goal.
