@@ -5,8 +5,10 @@
     - Comparative analysis
     - Content audit
     - Design hypothesis
+    - Heuristic evaluation
     - Hopes and fears
-    - Stakeholder and user interviews
+    - Page quality audit
+    - Stakeholder interviews
   questions:
     - What problem are we trying to solve?
     - What assumptions do we have?
@@ -25,8 +27,7 @@
     - Card sorting
     - Cognitive walkthrough
     - Contextual inquiry
-    - Heuristic evaluation
-    - Task flow analysis
+    - User interviews
   questions:
     - What are people doing today?
     - What data do we need to collect?
@@ -43,6 +44,7 @@
     - Journey mapping
     - Personas
     - Site mapping
+    - User flow diagramming
     - User scenarios
   questions:
     - How do we make sense of what we've seen and collected?
@@ -71,6 +73,7 @@
   category_info: more detailed category info...
   methods:
     - Dot voting
+    - Tree testing
     - Usability testing
     - Visual preference testing
   questions:
