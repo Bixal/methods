@@ -2,6 +2,8 @@
 layout: card
 title: Page quality audit
 permalink: /awareness/page-quality-audit/
+redirect_from:
+  - /page-quality-audit/
 description: An automated assessment report of factors that determine web page quality, including performance, accessibility, search engine optimization, and coding best practices.
 category: Awareness
 what: An automated assessment report of factors that determine web page quality, including performance, accessibility, search engine optimization, and coding best practices.
