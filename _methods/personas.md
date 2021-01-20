@@ -8,6 +8,16 @@ description: User archetypes based on conversations with real people.
 category: Interpretation
 why: To ground design in reality by forcing us to consider the goals, behaviors, and pain points of the people affected by our design decisions. Unlike marketing personas based on demographics or marketability, design personas describe how someone accomplishes goals.
 timeRequired: 2–3 hours
+templates:
+  - name: User Personas Template
+    tool: Miro
+    url: https://miro.com/templates/personas/
+  - name: Personas
+    tool: Miroverse
+    url: https://miro.com/miroverse/personas/
+  - name: Demo Project Personas
+    tool: Flowmapp
+    url: https://app.flowmapp.com/share/ba1cb2d04721cc297ae64b6969f66e46/personas/583/
 ---
 
 ## How to do it

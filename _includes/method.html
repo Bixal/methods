@@ -11,6 +11,13 @@
       <p>{{ this_method.description | smartify | liquify | markdownify }}</p>
       <h2>Why</h2>
       <p>{{ this_method.why | smartify | liquify | markdownify }}</p>
+      <hr>
+      <h2>Templates</h2>
+      <ul style="margin-left:0; padding-left:0; list-style-type:none;">
+        {% for template in this_method.templates %}
+        <li><a href="{{ template.url }}">{{ template.name }}</a> ({{ template.tool }})</li> 
+        {% endfor %}
+      </ul>
     <footer>
       <section class="method--section method--section--category">
         <h1>Phase</h1>
