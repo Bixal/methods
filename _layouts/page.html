@@ -5,7 +5,7 @@
     {% include category-setup.html %}
     {% include header.html %}
     <main id="main" role="main">
-      {{ content }}
+      {{ content | markdownify }}
     </main>
     {% include footer.html %}
   </body>
