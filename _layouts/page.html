@@ -6,6 +6,21 @@
     {% include header.html %}
     <main id="main" role="main">
       {{ content | markdownify }}
+
+
+{% for item in site.data.templates %}
+    <h2>{{ item[0] }}</h2>
+    {% assign templates = item[1] %}
+    <ul>
+    {% for template in templates %}
+    <li>
+        <a href="{{ template.url }}">{{ template.name }}</a> ({{ template.tool }})
+    </li> 
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+
     </main>
     {% include footer.html %}
   </body>
