@@ -1,0 +1,12 @@
+{% assign method_templates = site.data.templates | sort: item[0] %}
+{% for item in method_templates %}
+    <h2>{{ item[0] }}</h2>
+    {% assign templates = item[1] %}
+    <ul>
+    {% for template in templates %}
+    <li>
+        <a href="{{ template.url }}">{{ template.name }}</a> ({{ template.tool }})
+    </li> 
+    {% endfor %}
+  </ul>
+{% endfor %}
