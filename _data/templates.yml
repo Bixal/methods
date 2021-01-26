@@ -2,20 +2,33 @@ User interviews:
   - name: Customer Question Board
     tool: Miro
     url: https://miro.com/miroverse/the-question-board/
+  - name: Interview Checklist
+    tool: Text
+    url: https://bixal.github.io/methods/interview-checklist/
+Affinity diagramming:
+  - name: Affinity Diagram
+    tool: Miro
+    url: https://miro.com/templates/affinity-diagram/
+Journey mapping:
+  - name: Customer Journey Map
+    tool: Miro
+    url: https://miro.com/templates/customer-journey-map/
+  - name: Customer Journey Map by Auchan
+    tool: Miro
+    url: https://miro.com/miroverse/customer-journey-map-example-auchan/
+  - name: Two-track Journey Map by Edmond Gozo
+    tool: Miro
+    url: https://miro.com/miroverse/two-track-journey-map/
+  - name: User Journey by Complete Privacy
+    tool: Miro
+    url: https://miro.com/miroverse/user-journey/
 Personas:
   - name: User Personas Template
     tool: Miro
     url: https://miro.com/templates/personas/
-  - name: Personas
-    tool: Miroverse
+  - name: Personas by VMware Tanzu Labs
+    tool: Miro
     url: https://miro.com/miroverse/personas/
   - name: Demo Project Personas
     tool: Flowmapp
     url: https://app.flowmapp.com/share/ba1cb2d04721cc297ae64b6969f66e46/personas/583/
-  - name: Some other one
-    tool: Flowmapp
-    url: https://app.flowmapp.com/share/ba1cb2d04721cc297ae64b6969f66e46/personas/583/
-Storyboards:
-  - name: Storyboard Template
-    tool: Bliro
-    url: https://miro.com/templates/personas/
