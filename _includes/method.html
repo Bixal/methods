@@ -12,14 +12,15 @@
       <h2>Why</h2>
       <p>{{ this_method.why | smartify | liquify | markdownify }}</p>
       {% if site.data.templates[this_method.title] %}
-      <hr>
-      <h2>Templates</h2>
-      <ul style="margin-left:0; padding-left:0; list-style-type:none;">
-        {% assign method_templates = site.data.templates[this_method.title] %}
-        {% for template in method_templates %}
-        <li><a href="{{ template.url }}">{{ template.name }}</a> ({{ template.tool }})</li> 
-        {% endfor %}
-      </ul>
+      <section class="method--section--templates">
+        <h2>Templates</h2>
+        <ul>
+          {% assign method_templates = site.data.templates[this_method.title] %}
+          {% for template in method_templates %}
+          <li><a href="{{ template.url }}">{{ template.name }}</a> ({{ template.tool }})</li> 
+          {% endfor %}
+        </ul>
+      </section>
       {% endif %}
     <footer>
       <section class="method--section method--section--category">
