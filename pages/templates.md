@@ -5,9 +5,7 @@ permalink: /templates/
 ---
 
 # Templates
-This is a test:
-
-Why doesn't this work?
+This is an index of all the templates referenced throughout the Methods site, organized by method.
 
 
     
