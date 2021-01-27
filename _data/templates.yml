@@ -5,6 +5,9 @@ User interviews:
   - name: Interview Checklist
     tool: Text
     url: https://bixal.github.io/methods/interview-checklist/
+  - name: Interview Debrief Worksheet
+    tool: Text
+    url: https://bixal.github.io/methods/interview-debrief/
 Affinity diagramming:
   - name: Affinity Diagram
     tool: Miro
@@ -57,3 +60,19 @@ Wireframing:
   - name: USWDS Design Files
     tool: Sketch
     url: https://designsystem.digital.gov/documentation/designers/
+Usability testing:
+  - name: Usability Test Script
+    tool: Text
+    url: https://bixal.github.io/methods/usability-test-script/  
+  - name: Usability Testing by Syncier
+    tool: Miro
+    url: https://miro.com/miroverse/usability-testing/
+  - name: Remote Usability Study by Michael Strobel
+    tool: Miro
+    url: https://miro.com/miroverse/remote-usability-study/
+  - name: Rolling Issues Log
+    tool: Text
+    url: https://bixal.github.io/methods/rolling-issues-log/
+Planning:
+Findings:
+Recruiting:
