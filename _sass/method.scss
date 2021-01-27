@@ -103,6 +103,14 @@
     line-height: 1.4;
   }
 
+  .method--section--templates {
+    border-top: 1px solid $color-gray-light;
+  }
+
+  .method--section--templates ul {
+    padding-left:0;
+  }
+
   .method--section--category {
     min-width: 15rem;
   }

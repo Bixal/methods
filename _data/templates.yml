@@ -1,0 +1,86 @@
+User interviews:
+  - name: Customer Question Board
+    tool: Miro
+    url: https://miro.com/miroverse/the-question-board/
+  - name: Interview Checklist
+    tool: Text
+    url: https://bixal.github.io/methods/interview-checklist/
+  - name: Interview Debrief Worksheet
+    tool: Text
+    url: https://bixal.github.io/methods/interview-debrief/
+Affinity diagramming:
+  - name: Affinity Diagram
+    tool: Miro
+    url: https://miro.com/templates/affinity-diagram/
+Journey mapping:
+  - name: Customer Journey Map
+    tool: Miro
+    url: https://miro.com/templates/customer-journey-map/
+  - name: Customer Journey Map by Auchan
+    tool: Miro
+    url: https://miro.com/miroverse/customer-journey-map-example-auchan/
+  - name: Two-track Journey Map by Edmond Gozo
+    tool: Miro
+    url: https://miro.com/miroverse/two-track-journey-map/
+  - name: User Journey by Complete Privacy
+    tool: Miro
+    url: https://miro.com/miroverse/user-journey/
+Personas:
+  - name: User Personas Template
+    tool: Miro
+    url: https://miro.com/templates/personas/
+  - name: Personas by VMware Tanzu Labs
+    tool: Miro
+    url: https://miro.com/miroverse/personas/
+  - name: Demo Project Personas
+    tool: Flowmapp
+    url: https://app.flowmapp.com/share/ba1cb2d04721cc297ae64b6969f66e46/personas/583/
+User flow diagramming:
+  - name: Flowchart
+    tool: Miro
+    url: https://miro.com/templates/flowchart/
+Design studio:
+  - name: Design Studio Workshop by Modus Create
+    tool: Miro
+    url: https://miro.com/miroverse/design-studio-workshop/
+Storyboarding:
+  - name: Storyboard
+    tool: Miro
+    url: https://miro.com/templates/storyboard/
+  - name: The Product Storyboard by Orbit Ventures
+    tool: Miro
+    url: https://miro.com/miroverse/the-product-storyboard/
+Wireframing:
+  - name: App Wireframing
+    tool: Miro
+    url: https://miro.com/templates/wireframe-tool/
+  - name: Website Wireframing
+    tool: Miro
+    url: https://miro.com/templates/wireframe/
+  - name: USWDS Design Files
+    tool: Sketch
+    url: https://designsystem.digital.gov/documentation/designers/
+Usability testing:
+  - name: Usability Test Script
+    tool: Text
+    url: https://bixal.github.io/methods/usability-test-script/  
+  - name: Usability Testing by Syncier
+    tool: Miro
+    url: https://miro.com/miroverse/usability-testing/
+  - name: Remote Usability Study by Michael Strobel
+    tool: Miro
+    url: https://miro.com/miroverse/remote-usability-study/
+  - name: Rolling Issues Log
+    tool: Text
+    url: https://bixal.github.io/methods/rolling-issues-log/
+Planning:
+  - name: Research Cycle Plan
+    tool: Word
+    url: https://bixal.github.io/methods/templates/Research%20Cycle%20Plan.docx
+Findings:
+  - name: Research Cycle Findings
+    tool: Word
+    url: https://bixal.github.io/methods/templates/Research%20Cycle%20Findings.docx
+Recruiting:
+  - name: Coming soon
+    tool: " 🚧"

@@ -6,6 +6,9 @@
     {% include header.html %}
     <main id="main" role="main">
       {{ content }}
+      {% if page.title == "Templates" %}
+        {% include templates.html %}
+      {% endif %}
     </main>
     {% include footer.html %}
   </body>

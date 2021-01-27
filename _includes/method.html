@@ -11,6 +11,17 @@
       <p>{{ this_method.description | smartify | liquify | markdownify }}</p>
       <h2>Why</h2>
       <p>{{ this_method.why | smartify | liquify | markdownify }}</p>
+      {% if site.data.templates[this_method.title] %}
+      <section class="method--section--templates">
+        <h2>Templates</h2>
+        <ul>
+          {% assign method_templates = site.data.templates[this_method.title] %}
+          {% for template in method_templates %}
+          <li><a href="{{ template.url }}">{{ template.name }}</a> ({{ template.tool }})</li> 
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
     <footer>
       <section class="method--section method--section--category">
         <h1>Phase</h1>
