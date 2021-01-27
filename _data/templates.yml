@@ -32,3 +32,11 @@ Personas:
   - name: Demo Project Personas
     tool: Flowmapp
     url: https://app.flowmapp.com/share/ba1cb2d04721cc297ae64b6969f66e46/personas/583/
+User flow diagramming:
+  - name: Flowchart
+    tool: Miro
+    url: https://miro.com/templates/flowchart/
+Design studio:
+  - name: Design Studio Workshop by Modus Create
+    tool: Miro
+    url: https://miro.com/miroverse/design-studio-workshop/
