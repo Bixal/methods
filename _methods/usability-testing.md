@@ -22,7 +22,6 @@ timeRequired: 30 minutes to 1 hour per test
 
 ## Example from 18F
 
-- [Usability testing plans from 18F's Extractive Industries Transparency Initiative project with Department of the Interior](https://github.com/18F/doi-extractives-data/tree/research/research)
 - [Introduction to remote moderated usability testing, part 1&#58; What and why](https://18f.gsa.gov/2018/11/14/introduction-to-remote-moderated-usability-testing-part-1/)
 - [Introduction to remote moderated usability testing, part 2&#58; How](https://18f.gsa.gov/2018/11/20/introduction-to-remote-moderated-usability-testing-part-2-how/)
 
