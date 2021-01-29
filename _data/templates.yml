@@ -1,4 +1,14 @@
-User interviews:
+User interviews: # User interviews and Stakeholder interviews should likely use the same templates.
+  - name: Customer Question Board
+    tool: Miro
+    url: https://miro.com/miroverse/the-question-board/
+  - name: Interview Checklist
+    tool: Text
+    url: https://bixal.github.io/methods/interview-checklist/
+  - name: Interview Debrief Worksheet
+    tool: Text
+    url: https://bixal.github.io/methods/interview-debrief/
+Stakeholder interviews: # User interviews and Stakeholder interviews should likely use the same templates.
   - name: Customer Question Board
     tool: Miro
     url: https://miro.com/miroverse/the-question-board/
