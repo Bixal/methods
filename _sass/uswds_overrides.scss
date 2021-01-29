@@ -57,6 +57,10 @@ h1, h2, h3, h4{
   font-weight: bold;
 }
 
+.usa-nav-secondary-links {
+  font-weight: normal;
+}
+
 .usa-logo {
   position: relative;
 }
@@ -269,3 +273,10 @@ button,
 .text-bixal-navy {
   color: $color-bixal-navy !important;
 }
+
+@media screen and (min-width: 951px) {
+  .usa-nav-secondary {
+    left: 36rem;
+  }
+}
+  
