@@ -82,5 +82,9 @@ Findings:
     tool: Word
     url: https://bixal.github.io/methods/templates/Research%20Cycle%20Findings.docx
 Recruiting:
-  - name: Coming soon
-    tool: " 🚧"
+  - name: Researcher Introduction
+    tool: Text
+  - name: Participant Agreement Introduction
+    tool: Text
+  - name: Participant Agreement
+    tool: Text
