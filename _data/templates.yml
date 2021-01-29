@@ -106,3 +106,11 @@ Card sorting:
   - name: Optimal Sort
     tool: Optimal Workshop
     url: https://www.optimalworkshop.com/optimalsort/
+Site mapping:
+  - name: Demo Project Sitemap
+    tool: Flowmapp
+    url: https://app.flowmapp.com/share/ba1cb2d04721cc297ae64b6969f66e46/sitemap/
+Design pattern library:
+  - name: USWDS Design Files
+    tool: Sketch
+    url: https://designsystem.digital.gov/documentation/designers/ 
