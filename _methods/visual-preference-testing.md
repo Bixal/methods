@@ -27,6 +27,7 @@ timeRequired: |
 
 - [Rapid Desirability Testing: A Case Study.](http://www.uxmatters.com/mt/archives/2010/02/rapid-desirability-testing-a-case-study.php) Michael Hawley.
 - [Preference and Desirability Testing: Measuring Emotional Response to Guide Design.](http://www.slideshare.net/pwdoncaster/preference-and-desirability-testing-measuring-emotional-response-to-guide-design) Michael Hawley and Paul Doncaster.
+- [Using the Microsoft Desirability Toolkit to Test Visual Appeal.](https://www.nngroup.com/articles/microsoft-desirability-toolkit/) Nielsen Norman Group.
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >

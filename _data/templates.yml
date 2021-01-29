@@ -131,3 +131,7 @@ Tree testing:
   - name: Treejack
     tool: Optimal Workshop
     url: https://www.optimalworkshop.com/treejack/
+Visual preference testing:
+  - name: Microsoft Desirability Toolkit
+    tool: Text
+    url: https://www.nngroup.com/articles/desirability-reaction-words/
