@@ -53,6 +53,12 @@ Design studio:
   - name: Design Studio Workshop by Modus Create
     tool: Miro
     url: https://miro.com/miroverse/design-studio-workshop/
+  - name: Official Remote 5-day Design Sprint
+    tool: Miro
+    url: https://miro.com/templates/official-remote-5-day-design-sprint/
+  - name: Remote Design Sprint
+    tool: Miro
+    url: https://miro.com/templates/remote-design-sprint/
 Storyboarding:
   - name: Storyboard
     tool: Miro
@@ -113,4 +119,15 @@ Site mapping:
 Design pattern library:
   - name: USWDS Design Files
     tool: Sketch
-    url: https://designsystem.digital.gov/documentation/designers/ 
+    url: https://designsystem.digital.gov/documentation/designers/
+Prototyping:
+  - name: Prototype
+    tool: Miro
+    url: https://miro.com/templates/prototype/
+  - name: USWDS Design Files
+    tool: Sketch
+    url: https://designsystem.digital.gov/documentation/designers/
+Tree testing:
+  - name: Treejack
+    tool: Optimal Workshop
+    url: https://www.optimalworkshop.com/treejack/
