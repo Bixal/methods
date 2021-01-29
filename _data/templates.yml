@@ -1,4 +1,14 @@
-User interviews:
+User interviews: # User interviews and Stakeholder interviews should likely use the same templates.
+  - name: Customer Question Board
+    tool: Miro
+    url: https://miro.com/miroverse/the-question-board/
+  - name: Interview Checklist
+    tool: Text
+    url: https://bixal.github.io/methods/interview-checklist/
+  - name: Interview Debrief Worksheet
+    tool: Text
+    url: https://bixal.github.io/methods/interview-debrief/
+Stakeholder interviews: # User interviews and Stakeholder interviews should likely use the same templates.
   - name: Customer Question Board
     tool: Miro
     url: https://miro.com/miroverse/the-question-board/
@@ -43,6 +53,12 @@ Design studio:
   - name: Design Studio Workshop by Modus Create
     tool: Miro
     url: https://miro.com/miroverse/design-studio-workshop/
+  - name: Official Remote 5-day Design Sprint
+    tool: Miro
+    url: https://miro.com/templates/official-remote-5-day-design-sprint/
+  - name: Remote Design Sprint
+    tool: Miro
+    url: https://miro.com/templates/remote-design-sprint/
 Storyboarding:
   - name: Storyboard
     tool: Miro
@@ -82,5 +98,40 @@ Findings:
     tool: Word
     url: https://bixal.github.io/methods/templates/Research%20Cycle%20Findings.docx
 Recruiting:
-  - name: Coming soon
-    tool: " 🚧"
+  - name: Researcher Introduction
+    tool: Text
+  - name: Participant Agreement Introduction
+    tool: Text
+  - name: Participant Agreement
+    tool: Text
+Design hypothesis:
+  - name: Lean UX Canvas (v2)
+    tool: PDF
+    url: https://www.dropbox.com/s/s4bafppkjqhr88v/LeanUX_canvas_v5.pdf?dl=0
+Card sorting:
+  - name: Optimal Sort
+    tool: Optimal Workshop
+    url: https://www.optimalworkshop.com/optimalsort/
+Site mapping:
+  - name: Demo Project Sitemap
+    tool: Flowmapp
+    url: https://app.flowmapp.com/share/ba1cb2d04721cc297ae64b6969f66e46/sitemap/
+Design pattern library:
+  - name: USWDS Design Files
+    tool: Sketch
+    url: https://designsystem.digital.gov/documentation/designers/
+Prototyping:
+  - name: Prototype
+    tool: Miro
+    url: https://miro.com/templates/prototype/
+  - name: USWDS Design Files
+    tool: Sketch
+    url: https://designsystem.digital.gov/documentation/designers/
+Tree testing:
+  - name: Treejack
+    tool: Optimal Workshop
+    url: https://www.optimalworkshop.com/treejack/
+Visual preference testing:
+  - name: Microsoft Desirability Toolkit
+    tool: Text
+    url: https://www.nngroup.com/articles/desirability-reaction-words/
