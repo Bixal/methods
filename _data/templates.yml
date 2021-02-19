@@ -101,12 +101,12 @@ Findings:
     tool: Word
     url: https://bixal.github.io/methods/templates/Research%20Cycle%20Findings.docx
 Recruiting:
-  - name: Researcher Introduction
-    tool: Text
+  - name: Introduction Message
+    tool: Text [Coming soon]
   - name: Participant Agreement Introduction
-    tool: Text
+    tool: Text [Coming soon]
   - name: Participant Agreement
-    tool: Text
+    tool: Text [Coming soon]
 Design hypothesis:
   - name: Lean UX Canvas (v2)
     tool: PDF
