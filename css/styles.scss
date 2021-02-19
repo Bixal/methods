@@ -27,3 +27,16 @@
     height: 72px; /* fixed header height*/
     margin: -72px 0 0; /* negative fixed header height */
 }
+
+.toc {
+    display:flex;
+    flex-flow:column wrap;
+    margin-left:0;
+    padding-left:0;
+    height:24rem;
+    list-style-type:none;
+}
+
+.toc-col-3 {
+    width:33%;
+}

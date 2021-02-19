@@ -1,7 +1,7 @@
 {% assign method_templates = site.data.templates | sort: item[0] %}
-<ul style="display:flex; flex-flow:column wrap; margin-left:0; padding-left:0; height:24rem; list-style-type:none;">
+<ul class="toc">
   {% for item in method_templates %}
-  <li style="width:33%;"><a href="#{{ item[0] | slugify }}"">{{ item[0] }}</a></li>
+  <li class="toc-col-3"><a href="#{{ item[0] | slugify }}"">{{ item[0] }}</a></li>
   {% endfor %}
 </ul>
 {% for item in method_templates %}
