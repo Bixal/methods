@@ -8,7 +8,7 @@ permalink: /introduction-message/
 # Introduction Message
 These are guidelines and templates for sending an initial introduction to potential study participants requesting their participation.
 
-## Guidelines
+## Guidance
 * Be clear about who you are and what you’re trying to do. Give minimal but relevant context. Think in terms of how the project might help this person and what type of information you are seeking from them.
 * Be clear about what you’re asking of the recipient. Specify the research method (interview, survey, etc.) and the time investment on the recipient’s side. If applicable, include information about an incentive.
 * Include information about technology expectations: remote vs. in-person, screen-sharing component, what tool you’ll use to connect, etc.
