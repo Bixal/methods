@@ -4,12 +4,12 @@
       {% if page.layout == "category" %}
       <a href="{{site.baseurl}}/" class="usa-button usa-button-secondary">
         <img src="{{site.baseurl}}/images/layer-group.svg" alt="" width="24" height="24" class="card-button-icon">
-        See all cards
+        See all methods
       </a>
       {% else %}
       <a href="{{site.baseurl}}/{{ page.category | downcase}}" class="usa-button usa-button-secondary" onclick="ga('send', 'event', 'Navigate', 'Click method category link','Navigate to method categoy page');">
         <img src="{{site.baseurl}}/images/layer-group.svg" alt="" width="24" height="24" class="card-button-icon">
-        See all {{ page.category | capitalize }} cards
+        See all {{ page.category | capitalize }} methods
           </a>
       {% endif %}
 
