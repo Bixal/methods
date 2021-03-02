@@ -1,67 +1,38 @@
 ---
-title: Example design research participant agreement
-description: An example design research participant agreement
+title: Participant agreement
+description: An example participant agreement for research studies
 layout: page
 permalink: /participant-agreement/
-
 ---
 
-# Example Design Research Participant Agreement
-### English version
+<div class="usa-alert usa-alert-info"><div class="usa-alert-body"><p class="usa-alert-text">This  agreement template can be used to create a document or a web form. Participants can also acknowledge agreement verbally. This page is not an active form.</p></div></div>
 
-### _([Spanish version]({{site.baseurl}}/participant-agreement-spanish/))_
+# Participant Agreement
 
----
+Please read the details and acknowledge your agreement to participate.
 
-This agreement relates to your participation in a study led by `<organization>` to better understand `<area of inquiry>`. Please read it carefully and ask any questions you have before signing.
+1.	**What is this study about?**<br>
+We are researchers at Bixal working with [[[ Organization ]]] on [[[ subject matter for the study ]]]. Our goal is to learn more about peoples' experiences related to this topic. We are not evaluating you in any way.
 
----
+1.	**We will collect information and recordings.**<br>
+During the session, we will ask you questions about your actions and experience related to the topic. We may make video, audio, photographic, and written recordings of this session. We will analyze the information we collect and use it to inform design decisions.
 
-- **You are not required to participate and may opt out at any time.** If at any point you no longer wish to participate, please inform the study moderator.
-- **You will not receive payment or compensation for your participation.** You agree to perform all duties associated with your participation in this study during the period of `<project start date>` &ndash; `<project end date>` gratuitously and without expectation of payment or any other form of compensation from the United States Government. You freely and voluntarily agree to waive any right, claim, or other recourse against the United States federal Government relating to compensation for your participation in this study. Additionally, you agree to grant the United States Government with unlimited and unrestricted rights to use and reproduce all materials associated with your participation in this study.
-- **You agree to be recorded by `<organization>` may record this study.** `<Organization>` may make video, audio, photographic, and written recordings of this study. These records will be stored by `<organization>` and shared only with persons with a valid need to know for necessary, official purposes.
+1.	**We will protect your privacy.**<br>
+Bixal and [[[ Organization ]]] will take appropriate precautions to protect your privacy, as explained in the [[[ Organization's privacy statement ]]]. We will remove any personal information captured during the session. Recordings will only be shared with people who have a valid need in connection with this study.
 
-- **`<Organization>` will take appropriate precautions to protect your privacy,** as explained in our Privacy Act Statement and <a aria-describedby="footnote-label" href="#footnote-pia" id="footnote-pia-ref">Privacy Impact Assessment</a>. `<Organization>` takes steps to minimize and remove any unnecessary sensitive personally identifiable information captured during this research.
+1.	**Your participation is voluntary.**<br>
+You can withdraw your agreement to participate at _any time_ for _any reason_. If at any point you no longer wish to participate, please inform the study moderator immediately. 
 
----
+1.	**You will not receive payment or compensation for your participation.**<br>
+You agree to grant the United States Government unlimited and unrestricted rights to use and reproduce all materials associated with your participation in this study.
 
-<table class="signature-block">
-  <tr>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td class="label">
-      Printed name
-    </td>
-    <td class="label">
-      Signature
-    </td>
-  </tr>
-  <tr>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
-  <tr>
-    <td class="label">Date</td>
-    <td>&nbsp;</td>
-  </tr>
-</table>
+By entering your name below and checking this box you confirm that you have been informed of the purpose of this study and agree to participate.
 
-Privacy Act Notice: `<Organization>` is asking for your contact information so that we can decide if you are able to participate in design research studies. Your participation in a study is optional; nothing changes if you decline. By providing your contact information, you agree to receive follow-up communications about the study.  
+<input class="" id="agreement" type="checkbox" style="">
+<label for="agreement">I have read and understand the terms of participation in this study. I consent to audio/video recording. I understand I am not entitled to compensation.</label>
 
-`<Organization>`'s design research is conducted in the spirit of Executive Order 13571, Section 2B, which directs agencies to “establish mechanisms to solicit customer feedback on government services and use such feedback regularly to make service improvements”. `<Organization>`'s collection of contact information is authorized by the E-Government Act of 2002 (P.L. 107-347, 44 USC § 3501).
+<label for="name">Type your full name</label>
+<input type="text" id="name">
 
-<footer>
-  <h1 id="footnote-label">Footnotes</h1>
-  <ol>
-    <li id="footnote-pia">
-      <p>See <a href="https://www.gsa.gov/portal/content/162010">https://www.gsa.gov/portal/content/162010</a> and <a href="https://www.gsa.gov/portal/content/102237">https://www.gsa.gov/portal/content/102237</a></p>
-      <a href="#footnote-pia-ref" aria-label="Back to content">↩</a>
-    </li>
-  </ol>
-</footer>
+<label for="date">Enter today's date</label>
+<input type="date" id="date">
