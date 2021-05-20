@@ -18,7 +18,7 @@ timeRequired: 2–4 hours (per session)
     - If available, review any research findings that may have been gathered, including who the team is designing for and what we know about their goals and pain points.
     - If user research is not available, capture initial assumptions, but identify them as such and include discovery work in the story map.
 1. Build the backbone.
-    - The backbone outlines the high-level functionality of the product, in the language of the value it provides for the user and roughly in the order the user might experience it in. It should look similiar to the stages of a journey map.
+    - The backbone outlines the high-level functionality of the product, in the language of the value it provides for the user and roughly in the order the user might experience it in. It should look similiar to the stages of a journey map. (See the resources below for some examples of how this looks.)
 1. Capture work.
     - Set a time box for participants to individually capture work they think needs to be done to support the backbone. 
     - This can be done in the form of user stories, and they can be grouped into epics as needed.
