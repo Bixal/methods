@@ -141,3 +141,7 @@ Visual preference testing:
   - name: Microsoft Desirability Toolkit
     tool: Text
     url: https://www.nngroup.com/articles/desirability-reaction-words/
+Story mapping:
+  - name: User Story Map
+    tool: Miro
+    url: https://miro.com/templates/user-story-map/
