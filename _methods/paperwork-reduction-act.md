@@ -13,7 +13,7 @@ timeRequired: Varies
 
 ## How to do it
 
-1. Determine the type of research and estimate how many participants you'll need. See "[When PRA is most likely to apply](https://library.bixal.com/books/doing-user-research/page/when-pra-is-most-likely-to-apply)" in Navigating PRA.
+1. Determine the type of research and estimate how many participants you'll need. See "[When PRA is most likely to apply](https://library.bixal.com/books/doing-user-research/page/when-pra-is-most-likely-to-apply)" in Navigating PRA (Internal Bixal resource, for now).
 1. Think creatively about how to get the answers you need while complying with PRA. Each method in this site includes some guidance on the application of PRA, but in general, it does NOT apply in these cases:
     - Research methods that involve "direct observation or non-standardized oral communication".
     - Research conducted with federal employees as participants.
@@ -23,7 +23,7 @@ timeRequired: Varies
 
 ## Additional resources
 
-- [Navigating PRA.](https://library.bixal.com/books/doing-user-research/chapter/navigating-pra) Bixal.
+- [Navigating PRA.](https://library.bixal.com/books/doing-user-research/chapter/navigating-pra) Internal Bixal Resource, for now.
 - [The Paperwork Reduction Act of 1995.](https://ux-guide.18f.gov/research/legal/#the-paperwork-reduction-act-of-1995) 18F.
 - [A Guide to the Paperwork Reduction Act.](https://pra.digital.gov/) Digital.gov.
 
