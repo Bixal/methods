@@ -33,6 +33,7 @@ timeRequired: Around 12 weeks (assuming your project qualifies for fast-track PR
 2. **Short list**: Trim the list to 70 or fewer tasks:
   - Consolidate duplicative tasks
   - Work with stakeholders to shorten the list to no more than 70 tasks and finalize wording of tasks (consult task wording best practices). This can be done with collaborative workshops using a whiteboard tool.
+    
     Plan for it to take 3-5 weeks to get to a final short list.
 
 3. **Survey**: Get feedback from users. Ask users to vote on their most important tasks via survey. Collect other relevant data to cross analyze top tasks with those data points (for example, ask participants how long they have used the product. That way you can determine top tasks of new users vs. seasoned users).
