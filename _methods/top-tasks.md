@@ -12,6 +12,7 @@ The results from a Top Tasks survey can be used to:
 - design a more effective information architecture;
 - implement meaningful metrics that can be used to monitor how well your top tasks perform over time.
 
+timeRequired: Around 12 weeks
 
 ---
 
@@ -47,6 +48,9 @@ The results from a Top Tasks survey can be used to:
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
+
+## Time required
+Plan for around 12 weeks (assuming your project qualifies for fast-track PRA clearance).
 
 ## Considerations for use in government  
 
