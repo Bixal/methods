@@ -26,7 +26,7 @@ The results from a Top Tasks survey can be used to:
   - Review every page of the site you are creating the task list for
 
   As you review the data, ask yourself what users may be trying to do on your site. 
-
+  
   Capture your tasks in a spreadsheet. The spreadsheet should document the task, the general category it belongs to (this helps you organize your task list and makes it easier to trim the list later), the source of where you got that task, and notes.
 
 2.	Short list: Trim the list to 70 or fewer tasks.
@@ -41,14 +41,16 @@ The results from a Top Tasks survey can be used to:
 
 ## Additional resources  
 
-- [An explanation of cognitive walkthroughs and how to conduct one.](http://www.usabilitybok.org/cognitive-walkthrough) The Usability Body of Knowledge, a product of the User Experience Professionals' Association.
+- [Top Tasks: A How-to Guide.](https://www.amazon.com/Top-Tasks-How-Gerry-McGovern/dp/1916444601) Book by Gerry McGovern.
+- [A Deep Dive into Top Tasks with Gerry McGovern.] (https://digital.gov/event/2018/04/11/a-deep-dive-into-top-tasks-with-gerry-mcgovern/) Digital.gov
+- [Identifying customer top tasks.] (https://medium.com/@gerrymcgovern/identifying-customer-top-tasks-ee228206b6ed) Gerry McGovern
+- [Using Top Tasks to be Top-Notch.] (https://digital.gov/2014/07/02/using-top-tasks-to-be-top-notch-federal-reserve-board-usability-case-study/) Digital.gov
+- Search for "top task research"
 </section>
 
 <section class="method--section method--section--government-considerations" markdown="1" >
 
 ## Considerations for use in government  
 
-No PRA implications. The PRA explicitly exempts direct observation and non-standardized conversation (e.g., not a survey) that a cognitive walkthrough entails, 5 CFR 1320.3(h)3.
-
-If you are not working with government employees, you will need to observe standard precautions for archiving personally identifiable information.
+Top tasks works best with 100 or more survey participants, so you will need [PRA clearance] (https://pra.digital.gov/). See if your project qualifies for the [fast-track PRA clearance process] (https://digital.gov/resources/paperwork-reduction-act-fast-track-process/).
 </section>
